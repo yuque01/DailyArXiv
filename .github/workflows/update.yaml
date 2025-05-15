@@ -6,6 +6,12 @@ on:
       - created # for test
   schedule:
       - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+  workflow_dispatch:
+    inputs:
+      test_param:
+        description: 'Test parameter'
+        required: false
+        default: 'default_value'
 
 permissions:
   contents: write
