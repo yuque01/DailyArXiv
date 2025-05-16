@@ -30,10 +30,10 @@ labels: documentation
 | **[GlobalMood: A cross-cultural benchmark for music emotion recognition](http://arxiv.org/abs/2505.09539v1)** | 2025-05-14 |  |
 | **[Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch](http://arxiv.org/abs/2505.09364v1)** | 2025-05-14 |  |
 | **[HMamba: Hyperbolic Mamba for Sequential Recommendation](http://arxiv.org/abs/2505.09205v1)** | 2025-05-14 |  |
-| **[Towards More Efficient, Robust, Instance-adaptive, and Sequential Decision making](http://arxiv.org/abs/2504.09192v3)** | 2025-05-14 | Ph.D. Thesis |
+| **[Towards More Efficient, Robust, Instance-adaptive, and Generalizable Sequential Decision making](http://arxiv.org/abs/2504.09192v4)** | 2025-05-15 | Ph.D. Thesis |
 | **[Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey](http://arxiv.org/abs/2505.09065v1)** | 2025-05-14 | 2 Tables, 29 figures |
 | **[Item Level Exploration Traffic Allocation in Large-scale Recommendation Systems](http://arxiv.org/abs/2505.09033v1)** | 2025-05-14 | <details><summary>accep...</summary><p>accepted by the 18th ACM Recsys Large Recsys Workshop</p></details> |
-| **[How Students Use AI Feedback Matters: Experimental Evidence on Physics Achievement and Autonomy](http://arxiv.org/abs/2505.08672v1)** | 2025-05-13 |  |
+| **[How Students Use AI Feedback Matters: Experimental Evidence on Physics Achievement and Autonomy](http://arxiv.org/abs/2505.08672v2)** | 2025-05-15 |  |
 | **[Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes](http://arxiv.org/abs/2503.24027v2)** | 2025-05-13 | <details><summary>Updat...</summary><p>Updated to match the version accepted at ACM FAccT 2025. Includes revised text and results</p></details> |
 | **[TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching](http://arxiv.org/abs/2505.08508v1)** | 2025-05-13 |  |
 | **[Interest Changes: Considering User Interest Life Cycle in Recommendation System](http://arxiv.org/abs/2505.08471v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
@@ -67,7 +67,7 @@ labels: documentation
 | **[Adversarial Suffix Filtering: a Defense Pipeline for LLMs](http://arxiv.org/abs/2505.09602v1)** | 2025-05-14 |  |
 | **[How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference](http://arxiv.org/abs/2505.09598v1)** | 2025-05-14 |  |
 | **[Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](http://arxiv.org/abs/2505.09439v1)** | 2025-05-14 |  |
-| **[SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation](http://arxiv.org/abs/2505.09427v1)** | 2025-05-14 |  |
+| **[SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation](http://arxiv.org/abs/2505.09427v2)** | 2025-05-15 |  |
 | **[The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners](http://arxiv.org/abs/2505.09396v1)** | 2025-05-14 |  |
 | **[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](http://arxiv.org/abs/2411.03343v2)** | 2025-05-14 |  |
 | **[Statistical Modeling and Uncertainty Estimation of LLM Inference Systems](http://arxiv.org/abs/2505.09319v1)** | 2025-05-14 |  |
