@@ -83,10 +83,8 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repurposing Foundation Model for Generalizable Medical Time Series Classification](http://arxiv.org/abs/2410.03794v2)** | 2025-05-19 |  |
 | **[DICE: Device-level Integrated Circuits Encoder with Graph Contrastive Pretraining](http://arxiv.org/abs/2502.08949v2)** | 2025-05-19 |  |
 | **[VisDiff: SDF-Guided Polygon Generation for Visibility Reconstruction and Recognition](http://arxiv.org/abs/2410.05530v2)** | 2025-05-19 |  |
-| **[Understanding the Effect of using Semantically Meaningful Tokens for Visual Representation Learning](http://arxiv.org/abs/2405.16401v2)** | 2025-05-19 | <details><summary>Publi...</summary><p>Published at CVPR Workshops 2025</p></details> |
 | **[Picturized and Recited with Dialects: A Multimodal Chinese Representation Framework for Sentiment Analysis of Classical Chinese Poetry](http://arxiv.org/abs/2505.13210v1)** | 2025-05-19 |  |
 | **[Universal Semantic Disentangled Privacy-preserving Speech Representation Learning](http://arxiv.org/abs/2505.13085v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation](http://arxiv.org/abs/2503.01776v4)** | 2025-05-19 | Accepted by ICML2025 |
@@ -98,6 +96,8 @@ labels: documentation
 | **[BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation](http://arxiv.org/abs/2410.14971v2)** | 2025-05-19 |  |
 | **[Language-Enhanced Representation Learning for Single-Cell Transcriptomics](http://arxiv.org/abs/2503.09427v2)** | 2025-05-19 |  |
 | **[On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning](http://arxiv.org/abs/2505.12681v1)** | 2025-05-19 |  |
+| **[Random Forest Autoencoders for Guided Representation Learning](http://arxiv.org/abs/2502.13257v3)** | 2025-05-19 |  |
+| **[Unsupervised Invariant Risk Minimization](http://arxiv.org/abs/2505.12506v1)** | 2025-05-18 |  |
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
