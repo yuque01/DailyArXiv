@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games](http://arxiv.org/abs/2506.05309v1)** | 2025-06-05 |  |
-| **[Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning](http://arxiv.org/abs/2506.05252v1)** | 2025-06-05 | 24 pages |
-| **[Towards Language-Augmented Multi-Agent Deep Reinforcement Learning](http://arxiv.org/abs/2506.05236v1)** | 2025-06-05 |  |
-| **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v2)** | 2025-06-05 | <details><summary>Error...</summary><p>Error regarding experiment results</p></details> |
-| **[Truly Self-Improving Agents Require Intrinsic Metacognitive Learning](http://arxiv.org/abs/2506.05109v1)** | 2025-06-05 | <details><summary>Publi...</summary><p>Published as a conference paper at ICML 2025</p></details> |
-| **[OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](http://arxiv.org/abs/2505.20277v2)** | 2025-06-05 | 14 pages, 6 figures |
-| **[Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](http://arxiv.org/abs/2505.23847v2)** | 2025-06-05 |  |
-| **[Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information](http://arxiv.org/abs/2502.11260v2)** | 2025-06-05 |  |
-| **[Agentic AI for Intent-Based Industrial Automation](http://arxiv.org/abs/2506.04980v1)** | 2025-06-05 | <details><summary>Prepr...</summary><p>Preprint - Submitted to 16th IEEE/IAS International Conference on Industry Applications - INDUSCON 2025</p></details> |
-| **[Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](http://arxiv.org/abs/2504.17934v2)** | 2025-06-05 |  |
-| **[Goal-Oriented Semantic Resource Allocation with Cumulative Prospect Theoretic Agents](http://arxiv.org/abs/2506.04947v1)** | 2025-06-05 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE ICC 2025. The final published version will be available via IEEE Xplore</p></details> |
-| **[Navigating Motion Agents in Dynamic and Cluttered Environments through LLM Reasoning](http://arxiv.org/abs/2503.07323v2)** | 2025-06-05 |  |
-| **[EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities](http://arxiv.org/abs/2409.16165v3)** | 2025-06-05 | <details><summary>ICML ...</summary><p>ICML 2025; Project website https://enigma-agent.com</p></details> |
-| **[Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles](http://arxiv.org/abs/2506.04849v1)** | 2025-06-05 |  |
-| **[Oversight Structures for Agentic AI in Public-Sector Organizations](http://arxiv.org/abs/2506.04836v1)** | 2025-06-05 | <details><summary>To ap...</summary><p>To appear at REALM@ACL2025</p></details> |
+| **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](http://arxiv.org/abs/2506.06254v1)** | 2025-06-06 |  |
+| **[Can Theoretical Physics Research Benefit from Language Agents?](http://arxiv.org/abs/2506.06214v1)** | 2025-06-06 | 9 pages |
+| **[Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach](http://arxiv.org/abs/2506.06175v1)** | 2025-06-06 | 8 pages |
+| **[AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search](http://arxiv.org/abs/2506.06017v1)** | 2025-06-06 | 20pages |
+| **[CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents](http://arxiv.org/abs/2506.05981v1)** | 2025-06-06 |  |
+| **[AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML](http://arxiv.org/abs/2410.02958v2)** | 2025-06-06 | <details><summary>ICML ...</summary><p>ICML 2025, Project Page: https://deepauto-ai.github.io/automl-agent</p></details> |
+| **[UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning](http://arxiv.org/abs/2503.01908v2)** | 2025-06-06 |  |
+| **[Training Software Engineering Agents and Verifiers with SWE-Gym](http://arxiv.org/abs/2412.21139v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. Code at https://github.com/SWE-Gym/SWE-Gym</p></details> |
+| **[MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](http://arxiv.org/abs/2506.05813v1)** | 2025-06-06 | 26 pages, 10 figures |
+| **[m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training](http://arxiv.org/abs/2504.19565v2)** | 2025-06-06 | <details><summary>Biome...</summary><p>Biomedical large language models, corpus distillation, question-answer, agentic AI. arXiv admin note: text overlap with arXiv:2501.15108</p></details> |
+| **[To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt](http://arxiv.org/abs/2506.05739v1)** | 2025-06-06 | <details><summary>To ap...</summary><p>To appear in the Industry Track of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025)</p></details> |
+| **[DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation](http://arxiv.org/abs/2505.21969v3)** | 2025-06-06 |  |
+| **[The Coming Crisis of Multi-Agent Misalignment: AI Alignment Must Be a Dynamic and Social Process](http://arxiv.org/abs/2506.01080v2)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint of NeurIPS 2025 Position Paper</p></details> |
+| **[Multi-Agent Collaboration via Cross-Team Orchestration](http://arxiv.org/abs/2406.08979v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
+| **[CoopetitiveV: Leveraging LLM-powered Coopetitive Multi-Agent Prompting for High-quality Verilog Generation](http://arxiv.org/abs/2412.11014v2)** | 2025-06-06 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combating Misinformation in the Arab World: Challenges & Opportunities](http://arxiv.org/abs/2506.05582v1)** | 2025-06-05 | <details><summary>disin...</summary><p>disinformation, misinformation, factuality, harmfulness, fake news</p></details> |
 | **[Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning](http://arxiv.org/abs/2505.16836v2)** | 2025-06-04 | 28 pages, 27 figures |
 | **[Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection](http://arxiv.org/abs/2506.02350v1)** | 2025-06-03 |  |
 | **[Unified Large Language Models for Misinformation Detection in Low-Resource Linguistic Settings](http://arxiv.org/abs/2506.01587v1)** | 2025-06-02 |  |
@@ -40,53 +41,55 @@ labels: documentation
 | **[Evidence-Grounded Multimodal Misinformation Detection with Attention-Based GNNs](http://arxiv.org/abs/2505.18221v1)** | 2025-05-23 |  |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 | **[Detecting Fake News Belief via Skin and Blood Flow Signals](http://arxiv.org/abs/2505.16730v1)** | 2025-05-22 | Research Report |
-| **[Truth and Trust: Fake News Detection via Biosignals](http://arxiv.org/abs/2505.16702v1)** | 2025-05-22 | Research report |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets](http://arxiv.org/abs/2506.05346v1)** | 2025-06-05 | <details><summary>Proje...</summary><p>Project Page: https://hsiung.cc/llm-similarity-risk/</p></details> |
-| **[Search Arena: Analyzing Search-Augmented LLMs](http://arxiv.org/abs/2506.05334v1)** | 2025-06-05 | <details><summary>Prepr...</summary><p>Preprint. Code: https://github.com/lmarena/search-arena. Dataset: https://huggingface.co/datasets/lmarena-ai/search-arena-24k</p></details> |
-| **[Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](http://arxiv.org/abs/2506.05316v1)** | 2025-06-05 |  |
-| **[Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?](http://arxiv.org/abs/2503.24102v2)** | 2025-06-05 |  |
-| **[Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games](http://arxiv.org/abs/2506.05309v1)** | 2025-06-05 |  |
-| **[LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs](http://arxiv.org/abs/2506.05260v1)** | 2025-06-05 | <details><summary>Code:...</summary><p>Code: https://github.com/Wang-Xiaodong1899/LeanPO</p></details> |
-| **[Rethinking LLM Advancement: Compute-Dependent and Independent Paths to Progress](http://arxiv.org/abs/2505.04075v2)** | 2025-06-05 |  |
-| **[SECNEURON: Reliable and Flexible Abuse Control in Local LLMs via Hybrid Neuron Encryption](http://arxiv.org/abs/2506.05242v1)** | 2025-06-05 |  |
-| **[Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?](http://arxiv.org/abs/2502.08503v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[LLM-First Search: Self-Guided Exploration of the Solution Space](http://arxiv.org/abs/2506.05213v1)** | 2025-06-05 | <details><summary>9 mai...</summary><p>9 main pages, 2 figures, 2 tables, 36 appendix pages</p></details> |
-| **[CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks](http://arxiv.org/abs/2406.02524v4)** | 2025-06-05 |  |
-| **[Multi-Head RAG: Solving Multi-Aspect Problems with LLMs](http://arxiv.org/abs/2406.05085v3)** | 2025-06-05 |  |
-| **[On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools](http://arxiv.org/abs/2506.05182v1)** | 2025-06-05 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 9 tables</p></details> |
-| **[Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective](http://arxiv.org/abs/2506.05166v1)** | 2025-06-05 |  |
-| **[A Highly Scalable LLM Clusters with Optical Interconnect](http://arxiv.org/abs/2411.01503v6)** | 2025-06-05 |  |
+| **[MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators](http://arxiv.org/abs/2505.22777v2)** | 2025-06-06 | May ARR |
+| **[Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge](http://arxiv.org/abs/2506.06240v1)** | 2025-06-06 |  |
+| **[Emergent Response Planning in LLMs](http://arxiv.org/abs/2502.06258v2)** | 2025-06-06 | ICML 2025 |
+| **[LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws](http://arxiv.org/abs/2502.12120v2)** | 2025-06-06 | <details><summary>ICML ...</summary><p>ICML 2025 camera-ready version</p></details> |
+| **[The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text](http://arxiv.org/abs/2502.14921v2)** | 2025-06-06 | <details><summary>42nd ...</summary><p>42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[MIRIAD: Augmenting LLMs with millions of medical query-response pairs](http://arxiv.org/abs/2506.06091v2)** | 2025-06-09 | Preprint |
+| **[Zero-Shot Detection of LLM-Generated Code via Approximated Task Conditioning](http://arxiv.org/abs/2506.06069v1)** | 2025-06-06 | <details><summary>To ap...</summary><p>To appear in the Proceedings of ECML-PKDD 2025, Springer Lecture Notes in Computer Science (LNCS)</p></details> |
+| **[Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction](http://arxiv.org/abs/2506.06066v1)** | 2025-06-06 |  |
+| **[AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search](http://arxiv.org/abs/2506.06017v1)** | 2025-06-06 | 20pages |
+| **[On the Merits of LLM-Based Corpus Enrichment](http://arxiv.org/abs/2506.06015v1)** | 2025-06-06 |  |
+| **[Unlocking Recursive Thinking of LLMs: Alignment via Refinement](http://arxiv.org/abs/2506.06009v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to the Findings of ACL 2025</p></details> |
+| **[FDLLM: A Dedicated Detector for Black-Box LLMs Fingerprinting](http://arxiv.org/abs/2501.16029v2)** | 2025-06-06 |  |
+| **[The Synergy of LLMs & RL Unlocks Offline Learning of Generalizable Language-Conditioned Policies with Low-fidelity Data](http://arxiv.org/abs/2412.06877v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
+| **[CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents](http://arxiv.org/abs/2506.05981v1)** | 2025-06-06 |  |
+| **[TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge](http://arxiv.org/abs/2503.04381v2)** | 2025-06-06 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready Codes and models are available at https://github.com/d223302/TRACT</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context is Gold to find the Gold Passage: Evaluating and Training Contextual Document Embeddings](http://arxiv.org/abs/2505.24782v2)** | 2025-06-06 | Under Review |
+| **[Banyan: Improved Representation Learning with Explicit Structure](http://arxiv.org/abs/2407.17771v4)** | 2025-06-06 | <details><summary>ICML ...</summary><p>ICML 2025 Camera Ready + Code Release</p></details> |
+| **[DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models](http://arxiv.org/abs/2408.04713v4)** | 2025-06-06 | Accepted to TMLR |
+| **[ICU-TSB: A Benchmark for Temporal Patient Representation Learning for Unsupervised Stratification into Patient Cohorts](http://arxiv.org/abs/2506.06192v1)** | 2025-06-06 | <details><summary>6 pag...</summary><p>6 pages 1 table 6 figures</p></details> |
+| **[From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling](http://arxiv.org/abs/2411.10685v2)** | 2025-06-06 | Accepted to CVPR2025 |
+| **[Self-Supervised Generative-Contrastive Learning of Multi-Modal Euclidean Input for 3D Shape Latent Representations: A Dynamic Switching Approach](http://arxiv.org/abs/2301.04612v2)** | 2025-06-06 |  |
+| **[WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction](http://arxiv.org/abs/2506.05899v1)** | 2025-06-06 | 3 pages |
+| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
+| **[RB-SCD: A New Benchmark for Semantic Change Detection of Roads and Bridges in Traffic Scenes](http://arxiv.org/abs/2505.13212v2)** | 2025-06-06 |  |
+| **[Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning](http://arxiv.org/abs/2506.05826v1)** | 2025-06-06 |  |
+| **[Positional Encoding meets Persistent Homology on Graphs](http://arxiv.org/abs/2506.05814v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[Feature-Based Lie Group Transformer for Real-World Applications](http://arxiv.org/abs/2506.04668v3)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, the dataset used in this work is https://drive.google.com/file/d/1RaSWNN2GEyV3zQPeGya4Mr9DDhJ7OMz7/view?usp=sharing</p></details> |
+| **[GP-MoLFormer-Sim: Test Time Molecular Optimization through Contextual Similarity Guidance](http://arxiv.org/abs/2506.05628v1)** | 2025-06-05 | <details><summary>12 pa...</summary><p>12 pages main article, 21 pages total</p></details> |
+| **[Two-dimensional Taxonomy for N-ary Knowledge Representation Learning Methods](http://arxiv.org/abs/2506.05626v1)** | 2025-06-05 |  |
 | **[Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment](http://arxiv.org/abs/2506.05325v1)** | 2025-06-05 |  |
-| **[Towards Language-Augmented Multi-Agent Deep Reinforcement Learning](http://arxiv.org/abs/2506.05236v1)** | 2025-06-05 |  |
-| **[iN2V: Bringing Transductive Node Embeddings to Inductive Graphs](http://arxiv.org/abs/2506.05039v1)** | 2025-06-05 |  |
-| **[Aligning Multimodal Representations through an Information Bottleneck](http://arxiv.org/abs/2506.04870v1)** | 2025-06-05 |  |
-| **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v2)** | 2025-06-05 | under review |
-| **[Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques](http://arxiv.org/abs/2506.04788v1)** | 2025-06-05 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 3 tables</p></details> |
-| **[Physics Informed Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement](http://arxiv.org/abs/2506.04753v1)** | 2025-06-05 |  |
-| **[Learning dissection trajectories from expert surgical videos via imitation learning with equivariant diffusion](http://arxiv.org/abs/2506.04716v1)** | 2025-06-05 |  |
-| **[Feature-Based Lie Group Transformer for Real-World Applications](http://arxiv.org/abs/2506.04668v1)** | 2025-06-05 |  |
-| **[The Latent Space Hypothesis: Toward Universal Medical Representation Learning](http://arxiv.org/abs/2506.04515v1)** | 2025-06-04 | <details><summary>51 pa...</summary><p>51 pages, 12 figures. A position paper examining the latent space hypothesis - the proposition that diverse medical data can be represented in shared latent spaces reflecting fundamental biological processes. The paper discusses theoretical foundations, reviews supporting evidence, and considers potential implications for medical AI and representation learning</p></details> |
-| **[Spectro-Riemannian Graph Neural Networks](http://arxiv.org/abs/2502.00401v2)** | 2025-06-04 | ICLR 2025 |
-| **[Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](http://arxiv.org/abs/2506.00653v3)** | 2025-06-04 |  |
-| **[Language-Image Alignment with Fixed Text Encoders](http://arxiv.org/abs/2506.04209v1)** | 2025-06-04 |  |
-| **[Prior Learning in Introspective VAEs](http://arxiv.org/abs/2408.13805v3)** | 2025-06-04 |  |
-| **[TextAtari: 100K Frames Game Playing with Language Agents](http://arxiv.org/abs/2506.04098v1)** | 2025-06-04 | 51 pages, 39 figures |
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning](http://arxiv.org/abs/2506.06205v1)** | 2025-06-06 | <details><summary>Astra...</summary><p>Astra Technical Report</p></details> |
+| **[MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory](http://arxiv.org/abs/2506.05696v1)** | 2025-06-06 |  |
 | **[Quantifying Cross-Modality Memorization in Vision-Language Models](http://arxiv.org/abs/2506.05198v1)** | 2025-06-05 |  |
 | **[A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](http://arxiv.org/abs/2506.05061v1)** | 2025-06-05 |  |
 | **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v2)** | 2025-06-04 |  |
 | **[EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation](http://arxiv.org/abs/2506.03652v1)** | 2025-06-04 |  |
+| **[Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation](http://arxiv.org/abs/2506.05399v1)** | 2025-06-03 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 6 tables</p></details> |
 | **[Enriching Location Representation with Detailed Semantic Information](http://arxiv.org/abs/2506.02744v1)** | 2025-06-03 |  |
 | **[Entity Image and Mixed-Modal Image Retrieval Datasets](http://arxiv.org/abs/2506.02291v1)** | 2025-06-02 |  |
 | **[Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2502.08826v3)** | 2025-06-02 | <details><summary>GitHu...</summary><p>GitHub repository: https://github.com/llm-lab-org/Multimodal-RAG-Survey</p></details> |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles](http://arxiv.org/abs/2505.23590v2)** | 2025-06-02 |  |
 | **[TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning](http://arxiv.org/abs/2506.00813v1)** | 2025-06-01 |  |
 | **[Large Language Models in Bioinformatics: A Survey](http://arxiv.org/abs/2503.04490v2)** | 2025-05-31 | Accepted by ACL 2025 |
-| **[Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework](http://arxiv.org/abs/2506.00302v1)** | 2025-05-30 | <details><summary>Submi...</summary><p>Submitted to ICML 2025 Workshop on DataWorld</p></details> |
-| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v2)** | 2025-05-30 |  |
-| **[Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts](http://arxiv.org/abs/2505.24541v1)** | 2025-05-30 |  |
 
