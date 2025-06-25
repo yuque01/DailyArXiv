@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -56,7 +56,7 @@ labels: documentation
 | **[Eye of Judgement: Dissecting the Evaluation of Russian-speaking LLMs with POLLUX](http://arxiv.org/abs/2505.24616v2)** | 2025-06-23 | 179 pages |
 | **[LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults](http://arxiv.org/abs/2506.18711v1)** | 2025-06-23 |  |
 | **[LLM-Driven APT Detection for 6G Wireless Networks: A Systematic Review and Taxonomy](http://arxiv.org/abs/2505.18846v2)** | 2025-06-23 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Submitted to Computer Science Review (Elsevier), May 2025</p></details> |
-| **[ReDit: Reward Dithering for Improved LLM Policy Optimization](http://arxiv.org/abs/2506.18631v1)** | 2025-06-23 | 10 pages, 15 figures |
+| **[ReDit: Reward Dithering for Improved LLM Policy Optimization](http://arxiv.org/abs/2506.18631v2)** | 2025-06-24 | 10 pages, 15 figures |
 | **[AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs](http://arxiv.org/abs/2506.18628v1)** | 2025-06-23 | ICCS 2025 Workshops |
 | **[Reply to "Emergent LLM behaviors are observationally equivalent to data leakage"](http://arxiv.org/abs/2506.18600v1)** | 2025-06-23 | <details><summary>Reply...</summary><p>Reply to arXiv:2505.23796</p></details> |
 | **[A Modular Taxonomy for Hate Speech Definitions and Its Impact on Zero-Shot LLM Classification Performance](http://arxiv.org/abs/2506.18576v1)** | 2025-06-23 |  |
@@ -64,28 +64,15 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[USAD: Universal Speech and Audio Representation via Distillation](http://arxiv.org/abs/2506.18843v1)** | 2025-06-23 | Preprint |
-| **[Global Context-aware Representation Learning for Spatially Resolved Transcriptomics](http://arxiv.org/abs/2506.15698v2)** | 2025-06-23 | ICML 2025 |
-| **[YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos](http://arxiv.org/abs/2506.18266v1)** | 2025-06-23 |  |
-| **[These are Not All the Features You are Looking For: A Fundamental Bottleneck In Supervised Pretraining](http://arxiv.org/abs/2506.18221v1)** | 2025-06-23 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, Preprint. Under review</p></details> |
-| **[STACT-Time: Spatio-Temporal Cross Attention for Cine Thyroid Ultrasound Time Series Classification](http://arxiv.org/abs/2506.18172v1)** | 2025-06-22 |  |
-| **[Fast and Accurate Power Load Data Completion via Regularization-optimized Low-Rank Factorization](http://arxiv.org/abs/2505.19133v2)** | 2025-06-22 |  |
-| **[Multi-entity Video Transformers for Fine-Grained Video Representation Learning](http://arxiv.org/abs/2311.10873v2)** | 2025-06-22 | <details><summary>Publi...</summary><p>Published at the 12th Workshop on Fine-Grained Visual Categorization (CVPRW 2025)</p></details> |
-| **[Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning](http://arxiv.org/abs/2505.19442v2)** | 2025-06-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, submitted to EMNLP 2025 (Industry Track)</p></details> |
-| **[How Visual Representations Map to Language Feature Space in Multimodal LLMs](http://arxiv.org/abs/2506.11976v2)** | 2025-06-22 |  |
-| **[CultureMERT: Continual Pre-Training for Cross-Cultural Music Representation Learning](http://arxiv.org/abs/2506.17818v1)** | 2025-06-21 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, accepted to the 26th International Society for Music Information Retrieval conference (ISMIR 2025), to be held in Daejeon, South Korea</p></details> |
-| **[Smooth InfoMax -- Towards Easier Post-Hoc Interpretability](http://arxiv.org/abs/2408.12936v3)** | 2025-06-21 |  |
-| **[Beyond instruction-conditioning, MoTE: Mixture of Task Experts for Multi-task Embedding Models](http://arxiv.org/abs/2506.17781v1)** | 2025-06-21 |  |
-| **[Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains](http://arxiv.org/abs/2506.17718v1)** | 2025-06-21 | ICML 2025 |
-| **[DRIMV_TSK: An Interpretable Surgical Evaluation Model for Incomplete Multi-View Rectal Cancer Data](http://arxiv.org/abs/2506.17552v1)** | 2025-06-21 |  |
-| **[A Survey of State Representation Learning for Deep Reinforcement Learning](http://arxiv.org/abs/2506.17518v1)** | 2025-06-20 |  |
+| **[ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval](http://arxiv.org/abs/2408.02978v2)** | 2025-06-24 | <details><summary>accep...</summary><p>accepted for publication as a REGULAR paper in the IEEE Transactions on Multimedia</p></details> |
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning](http://arxiv.org/abs/2506.17364v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted in EC-TEL25: 20th European Conference on Technology Enhanced Learning, Newcastle and Durham, UK, 15-19 September 2025</p></details> |
+| **[Emergence of Text Readability in Vision Language Models](http://arxiv.org/abs/2506.19389v1)** | 2025-06-24 | <details><summary>EVAL-...</summary><p>EVAL-FoMo Workshop @ CVPR 2025</p></details> |
 | **[Haptic-ACT -- Pseudo Oocyte Manipulation by a Robot Using Multimodal Information and Action Chunking with Transformers](http://arxiv.org/abs/2506.18212v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025) Project website https://upedrou.github.io/haptic-act_IROS2025</p></details> |
 | **[Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?](http://arxiv.org/abs/2506.17623v1)** | 2025-06-21 | 4 figures,7 tables |
-| **[AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning](http://arxiv.org/abs/2506.17364v1)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted in EC-TEL25: 20th European Conference on Technology Enhanced Learning, Newcastle and Durham, UK, 15-19 September 2025</p></details> |
 | **[With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You](http://arxiv.org/abs/2506.16895v1)** | 2025-06-20 |  |
 | **[ICC: Quantifying Image Caption Concreteness for Multimodal Dataset Curation](http://arxiv.org/abs/2403.01306v4)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2024 (Finding). For Project webpage, see https://moranyanuka.github.io/icc/</p></details> |
 | **[M3-JEPA: Multimodal Alignment via Multi-gate MoE based on the Joint-Embedding Predictive Architecture](http://arxiv.org/abs/2409.05929v6)** | 2025-06-18 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. ICML 2025</p></details> |
@@ -97,5 +84,4 @@ labels: documentation
 | **[Improving Multimodal Learning Balance and Sufficiency through Data Remixing](http://arxiv.org/abs/2506.11550v2)** | 2025-06-16 | ICML2025 |
 | **[Learning to Fuse: Modality-Aware Adaptive Scheduling for Robust Multimodal Foundation Models](http://arxiv.org/abs/2506.12733v1)** | 2025-06-15 |  |
 | **[Interpretable Multimodal Learning for Tumor Protein-Metal Binding: Progress, Challenges, and Perspectives](http://arxiv.org/abs/2504.03847v2)** | 2025-06-14 |  |
-| **[Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics](http://arxiv.org/abs/2506.12365v1)** | 2025-06-14 |  |
 
