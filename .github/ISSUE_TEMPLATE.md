@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -10,7 +10,7 @@ labels: documentation
 | **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](http://arxiv.org/abs/2506.18959v3)** | 2025-07-03 |  |
 | **[Agentic Business Process Management: Practitioner Perspectives on Agent Governance in Business Processes](http://arxiv.org/abs/2504.03693v2)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted for Responsible BPM 2025, 15 pages including references</p></details> |
 | **[Establishing Best Practices for Building Rigorous Agentic Benchmarks](http://arxiv.org/abs/2507.02825v1)** | 2025-07-03 | <details><summary>39 pa...</summary><p>39 pages, 15 tables, 6 figures</p></details> |
-| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v1)** | 2025-07-03 |  |
+| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v2)** | 2025-07-06 |  |
 | **[Multi-agent Auditory Scene Analysis](http://arxiv.org/abs/2507.02755v1)** | 2025-07-03 | <details><summary>Submi...</summary><p>Submitted to Applied Intelligence</p></details> |
 | **[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](http://arxiv.org/abs/2506.21506v2)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project Homepage: https://osu-nlp-group.github.io/Mind2Web-2/</p></details> |
 | **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](http://arxiv.org/abs/2507.02699v1)** | 2025-07-03 |  |
@@ -21,7 +21,7 @@ labels: documentation
 | **[MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration](http://arxiv.org/abs/2410.12532v3)** | 2025-07-03 | <details><summary>LLM-b...</summary><p>LLM-based Multi-Agent Collaboration for Medical Applications</p></details> |
 | **[WebSailor: Navigating Super-human Reasoning for Web Agent](http://arxiv.org/abs/2507.02592v1)** | 2025-07-03 |  |
 | **[AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench](http://arxiv.org/abs/2507.02554v1)** | 2025-07-03 | <details><summary>Code:...</summary><p>Code: https://github.com/facebookresearch/aira-dojo</p></details> |
-| **[Embodied AI Agents: Modeling the World](http://arxiv.org/abs/2506.22355v2)** | 2025-07-03 |  |
+| **[Embodied AI Agents: Modeling the World](http://arxiv.org/abs/2506.22355v3)** | 2025-07-07 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -47,7 +47,7 @@ labels: documentation
 | --- | --- | --- |
 | **[MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs](http://arxiv.org/abs/2507.02851v1)** | 2025-07-03 |  |
 | **[Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs](http://arxiv.org/abs/2507.02778v1)** | 2025-07-03 | 31 pages, 18 figures |
-| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v1)** | 2025-07-03 |  |
+| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v2)** | 2025-07-06 |  |
 | **[Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots](http://arxiv.org/abs/2507.02745v1)** | 2025-07-03 |  |
 | **[Early Signs of Steganographic Capabilities in Frontier LLMs](http://arxiv.org/abs/2507.02737v1)** | 2025-07-03 |  |
 | **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](http://arxiv.org/abs/2507.02735v1)** | 2025-07-03 |  |
@@ -75,7 +75,7 @@ labels: documentation
 | **[SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction](http://arxiv.org/abs/2411.16765v3)** | 2025-07-02 | <details><summary>Fixed...</summary><p>Fixed Figure 1. ACL 2025</p></details> |
 | **[QAEncoder: Towards Aligned Representation Learning in Question Answering Systems](http://arxiv.org/abs/2409.20434v3)** | 2025-07-02 | ACL 2025 Oral |
 | **[NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction](http://arxiv.org/abs/2507.02018v1)** | 2025-07-02 |  |
-| **[When Does Pruning Benefit Vision Representations?](http://arxiv.org/abs/2507.01722v1)** | 2025-07-02 |  |
+| **[When Does Pruning Benefit Vision Representations?](http://arxiv.org/abs/2507.01722v2)** | 2025-07-07 |  |
 | **[Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition](http://arxiv.org/abs/2507.01673v1)** | 2025-07-02 |  |
 | **[What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning](http://arxiv.org/abs/2503.21055v4)** | 2025-07-02 | 16 pages, 4 figures |
 | **[Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence](http://arxiv.org/abs/2507.01504v1)** | 2025-07-02 | <details><summary>accep...</summary><p>accepted for publication at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025), taking place during November 18-21, 2025 in Gold Coast, Australia</p></details> |
@@ -93,7 +93,7 @@ labels: documentation
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Haptic-ACT -- Pseudo Oocyte Manipulation by a Robot Using Multimodal Information and Action Chunking with Transformers](http://arxiv.org/abs/2506.18212v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025) Project website https://tanichu-laboratory.github.io/pedro_haptic_act_iros2025/</p></details> |
 | **[ImplicitQA: Going beyond frames towards Implicit Video Reasoning](http://arxiv.org/abs/2506.21742v1)** | 2025-06-26 |  |
-| **[V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling](http://arxiv.org/abs/2506.21041v1)** | 2025-06-26 |  |
+| **[SEAL: Vision-Language Model-Based Safe End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling](http://arxiv.org/abs/2506.21041v2)** | 2025-07-04 |  |
 | **[TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence](http://arxiv.org/abs/2506.21028v1)** | 2025-06-26 |  |
 | **[Where is AIED Headed? Key Topics and Emerging Frontiers (2020-2024)](http://arxiv.org/abs/2506.20971v1)** | 2025-06-26 |  |
 | **[LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models](http://arxiv.org/abs/2503.21227v3)** | 2025-06-25 | Preprint |
