@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 18, 2025
+title: Latest 15 Papers - July 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,17 @@ labels: documentation
 | **[RAMA: Retrieval-Augmented Multi-Agent Framework for Misinformation Detection in Multimodal Fact-Checking](http://arxiv.org/abs/2507.09174v1)** | 2025-07-12 |  |
 | **[Advanced Health Misinformation Detection Through Hybrid CNN-LSTM Models Informed by the Elaboration Likelihood Model (ELM)](http://arxiv.org/abs/2507.09149v1)** | 2025-07-12 | <details><summary>11 Pa...</summary><p>11 Pages, 2 Figures, 3 Tables conference paper to appear in proceedings of International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA'25)</p></details> |
 | **[Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors](http://arxiv.org/abs/2507.05939v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025. 10 pages, 6 figures. Code: https://github.com/wangbing1416/DAEDCMD</p></details> |
+| **[Consistent and Invariant Generalization Learning for Short-video Misinformation Detection](http://arxiv.org/abs/2507.04061v1)** | 2025-07-05 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025,15 pages, 16figures</p></details> |
+| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](http://arxiv.org/abs/2506.22930v1)** | 2025-06-28 |  |
+| **[MisinfoTeleGraph: Network-driven Misinformation Detection for German Telegram Messages](http://arxiv.org/abs/2506.22529v1)** | 2025-06-27 |  |
+| **[Multimodal Misinformation Detection Using Early Fusion of Linguistic, Visual, and Social Features](http://arxiv.org/abs/2507.01984v1)** | 2025-06-26 |  |
+| **[E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs](http://arxiv.org/abs/2506.20944v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to AsiaCCS 2025 @ SCID</p></details> |
+| **[A Guide to Misinformation Detection Data and Evaluation](http://arxiv.org/abs/2411.05060v4)** | 2025-06-18 |  |
+| **[GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news](http://arxiv.org/abs/2506.11600v1)** | 2025-06-13 | 18 pages, 8 figures |
+| **[A Survey of Datasets for Information Diffusion Tasks](http://arxiv.org/abs/2407.05161v2)** | 2025-06-13 |  |
+| **[Combating Misinformation in the Arab World: Challenges & Opportunities](http://arxiv.org/abs/2506.05582v1)** | 2025-06-05 | <details><summary>disin...</summary><p>disinformation, misinformation, factuality, harmfulness, fake news</p></details> |
+| **[Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning](http://arxiv.org/abs/2505.16836v2)** | 2025-06-04 | 28 pages, 27 figures |
+| **[Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection](http://arxiv.org/abs/2506.02350v1)** | 2025-06-03 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
