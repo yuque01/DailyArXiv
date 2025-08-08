@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 07, 2025
+title: Latest 15 Papers - August 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](http://arxiv.org/abs/2508.04700v1)** | 2025-08-06 | <details><summary>Code ...</summary><p>Code at https://github.com/SunzeY/SEAgent</p></details> |
-| **[From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario](http://arxiv.org/abs/2508.04691v1)** | 2025-08-06 |  |
-| **[TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](http://arxiv.org/abs/2508.04682v1)** | 2025-08-06 | ICCV 2025 |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2508.04652v1)** | 2025-08-06 |  |
-| **[TURA: Tool-Augmented Unified Retrieval Agent for AI Search](http://arxiv.org/abs/2508.04604v1)** | 2025-08-06 |  |
-| **[Beyond Brainstorming: What Drives High-Quality Scientific Ideas? Lessons from Multi-Agent Collaboration](http://arxiv.org/abs/2508.04575v1)** | 2025-08-06 | Preprint |
-| **[CONVERGE: A Multi-Agent Vision-Radio Architecture for xApps](http://arxiv.org/abs/2508.04556v1)** | 2025-08-06 | 7 pages, 5 figures |
-| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v4)** | 2025-08-06 |  |
-| **[AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments](http://arxiv.org/abs/2506.11773v3)** | 2025-08-06 |  |
-| **[OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](http://arxiv.org/abs/2508.04482v1)** | 2025-08-06 | ACL 2025 (Oral) |
-| **[A Value Based Parallel Update MCTS Method for Multi-Agent Cooperative Decision Making of Connected and Automated Vehicles](http://arxiv.org/abs/2409.13783v2)** | 2025-08-06 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.04295 by other authors</p></details> |
-| **[Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation](http://arxiv.org/abs/2508.04418v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://github.com/jasongief/TGS-Agent</p></details> |
-| **[Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents](http://arxiv.org/abs/2508.04412v1)** | 2025-08-06 |  |
-| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v2)** | 2025-08-06 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
-| **[DRAMA: A Dynamic and Robust Allocation-based Multi-Agent System for Changing Environments](http://arxiv.org/abs/2508.04332v1)** | 2025-08-06 |  |
+| **[Simulating Human-Like Learning Dynamics with LLM-Empowered Agents](http://arxiv.org/abs/2508.05622v1)** | 2025-08-07 |  |
+| **[OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks](http://arxiv.org/abs/2508.05614v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/OmniEmbodied Code: https://github.com/ZJU-REAL/OmniEmbodied</p></details> |
+| **[An Entity Linking Agent for Question Answering](http://arxiv.org/abs/2508.03865v2)** | 2025-08-07 | 12 pages, 2 figures |
+| **[Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning](http://arxiv.org/abs/2506.05252v2)** | 2025-08-07 | 26 pages |
+| **[SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](http://arxiv.org/abs/2508.02085v3)** | 2025-08-07 |  |
+| **[MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media](http://arxiv.org/abs/2508.05557v1)** | 2025-08-07 |  |
+| **[SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers](http://arxiv.org/abs/2504.00255v2)** | 2025-08-07 |  |
+| **[Style-Preserving Policy Optimization for Game Agents](http://arxiv.org/abs/2506.16995v2)** | 2025-08-07 |  |
+| **[Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation](http://arxiv.org/abs/2508.05508v1)** | 2025-08-07 |  |
+| **[AutoIAD: Manager-Driven Multi-Agent Collaboration for Automated Industrial Anomaly Detection](http://arxiv.org/abs/2508.05503v1)** | 2025-08-07 |  |
+| **[MoMA: A Mixture-of-Multimodal-Agents Architecture for Enhancing Clinical Prediction Modelling](http://arxiv.org/abs/2508.05492v1)** | 2025-08-07 |  |
+| **[Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action](http://arxiv.org/abs/2504.08754v5)** | 2025-08-07 |  |
+| **[Agent Guide: A Simple Agent Behavioral Watermarking Framework](http://arxiv.org/abs/2504.05871v2)** | 2025-08-07 |  |
+| **[Whose Truth? Pluralistic Geo-Alignment for (Agentic) AI](http://arxiv.org/abs/2508.05432v1)** | 2025-08-07 |  |
+| **[LLM-based Multi-Agent Copilot for Quantum Sensor](http://arxiv.org/abs/2508.05421v1)** | 2025-08-07 | 13 pages,4 figures |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -45,44 +45,45 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Aligning Human and LLM Judgments: Insights from EvalAssist on Task-Specific Evaluations and AI-assisted Assessment Strategy Preferences](http://arxiv.org/abs/2410.00873v2)** | 2025-08-06 |  |
-| **[GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay](http://arxiv.org/abs/2508.04676v1)** | 2025-08-06 |  |
-| **[Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs](http://arxiv.org/abs/2503.06362v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to IEEE ASRU 2025</p></details> |
-| **[Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management](http://arxiv.org/abs/2508.04664v1)** | 2025-08-06 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2508.04652v1)** | 2025-08-06 |  |
-| **[RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](http://arxiv.org/abs/2508.00222v3)** | 2025-08-06 |  |
-| **[Evaluating Robustness of LLMs in Question Answering on Multilingual Noisy OCR Data](http://arxiv.org/abs/2502.16781v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025</p></details> |
-| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v4)** | 2025-08-06 |  |
-| **[AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments](http://arxiv.org/abs/2506.11773v3)** | 2025-08-06 |  |
-| **[LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models](http://arxiv.org/abs/2508.03440v2)** | 2025-08-06 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, working in progress</p></details> |
-| **[StyliTruth : Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering](http://arxiv.org/abs/2508.04530v1)** | 2025-08-06 |  |
-| **[From Sufficiency to Reflection: Reinforcement-Guided Thinking Quality in Retrieval-Augmented Reasoning for LLMs](http://arxiv.org/abs/2507.22716v2)** | 2025-08-06 |  |
-| **[Automatic LLM Red Teaming](http://arxiv.org/abs/2508.04451v1)** | 2025-08-06 |  |
-| **[Inside-Out: Hidden Factual Knowledge in LLMs](http://arxiv.org/abs/2503.15299v4)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
-| **[StepFun-Formalizer: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](http://arxiv.org/abs/2508.04440v1)** | 2025-08-06 | <details><summary>24 pa...</summary><p>24 pages, 17 figures, under review</p></details> |
+| **[How Do LLMs Persuade? Linear Probes Can Uncover Persuasion Dynamics in Multi-Turn Conversations](http://arxiv.org/abs/2508.05625v1)** | 2025-08-07 |  |
+| **[Simulating Human-Like Learning Dynamics with LLM-Empowered Agents](http://arxiv.org/abs/2508.05622v1)** | 2025-08-07 |  |
+| **[TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](http://arxiv.org/abs/2508.05616v1)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2505.04480</p></details> |
+| **[Fairy$\pm i$: the First 2-bit Complex LLM with All Parameters in $\{\pm1, \pm i\}$](http://arxiv.org/abs/2508.05571v1)** | 2025-08-07 | 13 pages, 14 figures |
+| **[SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](http://arxiv.org/abs/2508.02085v3)** | 2025-08-07 |  |
+| **[SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers](http://arxiv.org/abs/2504.00255v2)** | 2025-08-07 |  |
+| **[Teaching LLMs How to Learn with Contextual Fine-Tuning](http://arxiv.org/abs/2503.09032v2)** | 2025-08-07 | ICLR 2025 |
+| **[The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities](http://arxiv.org/abs/2508.05525v1)** | 2025-08-07 | <details><summary>Confe...</summary><p>Conference on Language Modeling 2025</p></details> |
+| **[RankArena: A Unified Platform for Evaluating Retrieval, Reranking and RAG with Human and LLM Feedback](http://arxiv.org/abs/2508.05512v1)** | 2025-08-07 | Accept at CIKM 2025 |
+| **[InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](http://arxiv.org/abs/2508.05496v1)** | 2025-08-07 |  |
+| **[Let's Measure Information Step-by-Step: LLM-Based Evaluation Beyond Vibes](http://arxiv.org/abs/2508.05469v1)** | 2025-08-07 | 13 pages |
+| **[Getting out of the Big-Muddy: Escalation of Commitment in LLMs](http://arxiv.org/abs/2508.01545v2)** | 2025-08-07 |  |
+| **[TIME: Temporal-Sensitive Multi-Dimensional Instruction Tuning and Robust Benchmarking for Video-LLMs](http://arxiv.org/abs/2503.09994v2)** | 2025-08-07 |  |
+| **[LLM-based Multi-Agent Copilot for Quantum Sensor](http://arxiv.org/abs/2508.05421v1)** | 2025-08-07 | 13 pages,4 figures |
+| **[Simulating LLM training workloads for heterogeneous compute and network infrastructure](http://arxiv.org/abs/2508.05370v1)** | 2025-08-07 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revealing Latent Information: A Physics-inspired Self-supervised Pre-training Framework for Noisy and Sparse Events](http://arxiv.org/abs/2508.05507v1)** | 2025-08-07 |  |
+| **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
+| **[RegionMed-CLIP: A Region-Aware Multimodal Contrastive Learning Pre-trained Model for Medical Image Understanding](http://arxiv.org/abs/2508.05244v1)** | 2025-08-07 |  |
+| **[Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](http://arxiv.org/abs/2508.05186v1)** | 2025-08-07 | <details><summary>7 pag...</summary><p>7 pages, 9 figures, project page: https://hcplab-sysu.github.io/TAVP</p></details> |
+| **[Contrastive Representation Modeling for Anomaly Detection](http://arxiv.org/abs/2501.05130v5)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at the 28th European Conference on Artificial Intelligence (ECAI 2025). 14 pages, 5 figures</p></details> |
+| **[JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture](http://arxiv.org/abs/2504.10512v3)** | 2025-08-07 |  |
+| **[TANGO: Graph Neural Dynamics via Learned Energy and Tangential Flows](http://arxiv.org/abs/2508.05070v1)** | 2025-08-07 |  |
+| **[Multimodal Causal-Driven Representation Learning for Generalizable Medical Image Segmentation](http://arxiv.org/abs/2508.05008v1)** | 2025-08-07 | Under Review |
+| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](http://arxiv.org/abs/2508.04955v1)** | 2025-08-07 |  |
+| **[Verbalized Representation Learning for Interpretable Few-Shot Generalization](http://arxiv.org/abs/2411.18651v3)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[Towards Language-Augmented Multi-Agent Deep Reinforcement Learning](http://arxiv.org/abs/2506.05236v2)** | 2025-08-06 | <details><summary>Acces...</summary><p>Accespted at the European Conference on Artificial Intelligence 2025</p></details> |
 | **[Occupancy Learning with Spatiotemporal Memory](http://arxiv.org/abs/2508.04705v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV2025. Project website: https://matthew-leng.github.io/stocc</p></details> |
 | **[BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning](http://arxiv.org/abs/2508.04702v1)** | 2025-08-06 |  |
 | **[Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs](http://arxiv.org/abs/2503.06362v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to IEEE ASRU 2025</p></details> |
 | **[Learning Robust Intervention Representations with Delta Embeddings](http://arxiv.org/abs/2508.04492v1)** | 2025-08-06 |  |
-| **[GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment](http://arxiv.org/abs/2504.09485v2)** | 2025-08-06 | Accepted by ICCAD'25 |
-| **[Graph Representation Learning with Massive Unlabeled Data for Rumor Detection](http://arxiv.org/abs/2508.04252v1)** | 2025-08-06 | 9 pages, 3 figures |
-| **[Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers](http://arxiv.org/abs/2501.01414v2)** | 2025-08-06 |  |
-| **[Adversarial Fair Multi-View Clustering](http://arxiv.org/abs/2508.04071v1)** | 2025-08-06 |  |
-| **[FeDaL: Federated Dataset Learning for Time Series Foundation Models](http://arxiv.org/abs/2508.04045v1)** | 2025-08-06 | <details><summary>28 pa...</summary><p>28 pages, scaling FL to time series foundation models</p></details> |
-| **[Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval](http://arxiv.org/abs/2508.04028v1)** | 2025-08-06 | 10 pages, 7figures |
-| **[Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs](http://arxiv.org/abs/2504.17432v3)** | 2025-08-06 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, Accepted by ACM MM2025, Project page: https://garygutc.github.io/UniME</p></details> |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterest Ads](http://arxiv.org/abs/2508.02609v2)** | 2025-08-05 |  |
-| **[RAVID: Retrieval-Augmented Visual Detection: A Knowledge-Driven Approach for AI-Generated Image Identification](http://arxiv.org/abs/2508.03967v1)** | 2025-08-05 |  |
-| **[What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning](http://arxiv.org/abs/2503.21055v5)** | 2025-08-05 | 16 pages, 4 figures |
-| **[Cross-Model Semantics in Representation Learning](http://arxiv.org/abs/2508.03649v1)** | 2025-08-05 |  |
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analyzing the Impact of Multimodal Perception on Sample Complexity and Optimization Landscapes in Imitation Learning](http://arxiv.org/abs/2508.05077v1)** | 2025-08-07 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table, theoretical analysis with empirical validation on PerAct implementation in MuJoCo simulation environment</p></details> |
 | **[SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality](http://arxiv.org/abs/2507.19264v2)** | 2025-08-06 |  |
 | **[Decoding the Multimodal Maze: A Systematic Review on the Adoption of Explainability in Multimodal Attention-based Models](http://arxiv.org/abs/2508.04427v1)** | 2025-08-06 |  |
 | **[SVC 2025: the First Multimodal Deception Detection Challenge](http://arxiv.org/abs/2508.04129v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by Workshop SVC of ACM MM 2025</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v3)** | 2025-07-29 |  |
 | **[MAGE: Multimodal Alignment and Generation Enhancement via Bridging Visual and Semantic Spaces](http://arxiv.org/abs/2507.21741v1)** | 2025-07-29 | 9 pages |
 | **[One-stage Modality Distillation for Incomplete Multimodal Learning](http://arxiv.org/abs/2309.08204v2)** | 2025-07-29 |  |
-| **[Everything is a Video: Unifying Modalities through Next-Frame Prediction](http://arxiv.org/abs/2411.10503v2)** | 2025-07-28 | 10 pages, 10 figures |
 
