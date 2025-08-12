@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -55,7 +55,7 @@ labels: documentation
 | **[Are Your LLMs Capable of Stable Reasoning?](http://arxiv.org/abs/2412.13147v5)** | 2025-08-08 | <details><summary>ACL 2...</summary><p>ACL 2025 Camera, Benchmark: https://huggingface.co/datasets/opencompass/LiveMathBench, Code: https://github.com/open-compass/GPassK</p></details> |
 | **[When AIOps Become "AI Oops": Subverting LLM-driven IT Operations via Telemetry Manipulation](http://arxiv.org/abs/2508.06394v1)** | 2025-08-08 | v0.1 |
 | **[LLMs vs. Chinese Anime Enthusiasts: A Comparative Study on Emotionally Supportive Role-Playing](http://arxiv.org/abs/2508.06388v1)** | 2025-08-08 | <details><summary>21 pa...</summary><p>21 pages, 17 figures, 3 tables</p></details> |
-| **[End-to-End Text-to-SQL with Dataset Selection: Leveraging LLMs for Adaptive Query Generation](http://arxiv.org/abs/2508.06387v1)** | 2025-08-08 | Accepted in IJCNN25 |
+| **[End-to-End Text-to-SQL with Dataset Selection: Leveraging LLMs for Adaptive Query Generation](http://arxiv.org/abs/2508.06387v2)** | 2025-08-11 | Accepted in IJCNN25 |
 | **[Beyond Prompt-Induced Lies: Investigating LLM Deception on Benign Prompts](http://arxiv.org/abs/2508.06361v1)** | 2025-08-08 |  |
 | **[Matrix-Driven Instant Review: Confident Detection and Reconstruction of LLM Plagiarism on PC](http://arxiv.org/abs/2508.06309v1)** | 2025-08-08 |  |
 | **[DONOD: Efficient and Generalizable Instruction Fine-Tuning for LLMs via Model-Intrinsic Dataset Pruning](http://arxiv.org/abs/2504.14810v2)** | 2025-08-08 |  |
