@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2025
+title: Latest 15 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -18,7 +18,7 @@ labels: documentation
 | **[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](http://arxiv.org/abs/2508.08997v1)** | 2025-08-12 |  |
 | **[AIOS: LLM Agent Operating System](http://arxiv.org/abs/2403.16971v5)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published as a full paper at COLM 2025</p></details> |
 | **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v3)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted by SEKE 2025</p></details> |
-| **[How Does a Virtual Agent Decide Where to Look? - Symbolic Cognitive Reasoning for Embodied Head Rotation](http://arxiv.org/abs/2508.08930v1)** | 2025-08-12 |  |
+| **[How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation](http://arxiv.org/abs/2508.08930v1)** | 2025-08-12 |  |
 | **[Reducing Cognitive Load in Multi-Agent Reinforcement Learning for Mathematical Problem Solving: Decoupling Reasoning and Code Generation](http://arxiv.org/abs/2508.08882v1)** | 2025-08-12 |  |
 | **[Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](http://arxiv.org/abs/2508.00414v2)** | 2025-08-12 | 16 pages |
 | **[The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents](http://arxiv.org/abs/2508.08837v1)** | 2025-08-12 | <details><summary>Submi...</summary><p>Submitted to AAAI Social Impact 2026</p></details> |
@@ -57,7 +57,7 @@ labels: documentation
 | **[Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty](http://arxiv.org/abs/2508.08992v1)** | 2025-08-12 |  |
 | **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v5)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
 | **[AIOS: LLM Agent Operating System](http://arxiv.org/abs/2403.16971v5)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published as a full paper at COLM 2025</p></details> |
-| **[EvoP: Robust LLM Inference via Evolutionary Pruning](http://arxiv.org/abs/2502.14910v2)** | 2025-08-12 |  |
+| **[EvoP: Robust LLM Inference via Evolutionary Pruning](http://arxiv.org/abs/2502.14910v3)** | 2025-08-13 |  |
 | **[Jinx: Unlimited LLMs for Probing Alignment Failures](http://arxiv.org/abs/2508.08243v2)** | 2025-08-12 | <details><summary>https...</summary><p>https://huggingface.co/Jinx-org</p></details> |
 | **[ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs](http://arxiv.org/abs/2508.08895v1)** | 2025-08-12 | 20 pages, 9 figures |
 
