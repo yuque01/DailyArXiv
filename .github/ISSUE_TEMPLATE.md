@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2025
+title: Latest 15 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,20 +8,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Distributed Detection of Adversarial Attacks in Multi-Agent Reinforcement Learning with Continuous Action Space](http://arxiv.org/abs/2508.15764v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted for publication at ECAI 2025</p></details> |
-| **[LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries](http://arxiv.org/abs/2508.15760v1)** | 2025-08-21 |  |
-| **["Does the cafe entrance look accessible? Where is the door?" Towards Geospatial AI Agents for Visual Inquiries](http://arxiv.org/abs/2508.15752v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to the ICCV'25 Workshop "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities"</p></details> |
-| **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
-| **[A "good regulator theorem" for embodied agents](http://arxiv.org/abs/2508.06326v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted at the Artificial Life conference 2025 (ALife 2025). 10 pages, 1 figure</p></details> |
-| **[An Efficient Open World Environment for Multi-Agent Social Learning](http://arxiv.org/abs/2508.15679v1)** | 2025-08-21 |  |
-| **[Prompt Injection Attack to Tool Selection in LLM Agents](http://arxiv.org/abs/2504.19793v2)** | 2025-08-21 |  |
-| **[Exploring Modularity of Agentic Systems for Drug Discovery](http://arxiv.org/abs/2506.22189v2)** | 2025-08-21 |  |
-| **[Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2508.15652v1)** | 2025-08-21 | <details><summary>Europ...</summary><p>European Conference on Artificial Intelligence (ECAI) 2025</p></details> |
-| **[Preacher: Paper-to-Video Agentic System](http://arxiv.org/abs/2508.09632v4)** | 2025-08-21 | <details><summary>Inclu...</summary><p>Include some mistakes</p></details> |
-| **[HEAS: Hierarchical Evolutionary Agent Simulation Framework for Cross-Scale Modeling and Multi-Objective Search](http://arxiv.org/abs/2508.15555v1)** | 2025-08-21 | 9 pages, 1 figure |
-| **[SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](http://arxiv.org/abs/2508.15526v1)** | 2025-08-21 | <details><summary>Code ...</summary><p>Code and dataset are available at https://github.com/yangyangyang127/SafetyFlow</p></details> |
-| **[Agoran: An Agentic Open Marketplace for 6G RAN Automation](http://arxiv.org/abs/2508.09159v2)** | 2025-08-21 | <details><summary>Pre-p...</summary><p>Pre-print submitted to Computer Networks AI-for-6G</p></details> |
-| **[Super-additive Cooperation in Language Model Agents](http://arxiv.org/abs/2508.15510v1)** | 2025-08-21 | FAIEMA 2025 |
-| **[From Bits to Boardrooms: A Cutting-Edge Multi-Agent LLM Framework for Business Excellence](http://arxiv.org/abs/2508.15447v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025</p></details> |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
