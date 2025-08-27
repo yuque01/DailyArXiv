@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](http://arxiv.org/abs/2505.18596v3)** | 2025-08-25 | <details><summary>This ...</summary><p>This paper has been accepted to EMNLP 2025 (Main Conference)</p></details> |
+| **[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](http://arxiv.org/abs/2505.18596v4)** | 2025-08-26 | <details><summary>This ...</summary><p>This paper has been accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](http://arxiv.org/abs/2508.12711v1)** | 2025-08-18 |  |
 | **[E-CaTCH: Event-Centric Cross-Modal Attention with Temporal Consistency and Class-Imbalance Handling for Misinformation Detection](http://arxiv.org/abs/2508.11197v1)** | 2025-08-15 |  |
 | **[DiFaR: Enhancing Multimodal Misinformation Detection with Diverse, Factual, and Relevant Rationales](http://arxiv.org/abs/2508.10444v1)** | 2025-08-14 |  |
@@ -46,7 +46,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models](http://arxiv.org/abs/2508.18253v1)** | 2025-08-25 |  |
-| **[ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](http://arxiv.org/abs/2508.18190v1)** | 2025-08-25 | <details><summary>Exten...</summary><p>Extension of our SIGMOD 2026 paper. Please refer to source code available at: https://github.com/weAIDB/ST-Raptor</p></details> |
+| **[ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](http://arxiv.org/abs/2508.18190v2)** | 2025-08-26 | <details><summary>Exten...</summary><p>Extension of our SIGMOD 2026 paper. Please refer to source code available at: https://github.com/weAIDB/ST-Raptor</p></details> |
 | **[Trust Me, I'm Wrong: LLMs Hallucinate with Certainty Despite Knowing the Answer](http://arxiv.org/abs/2502.12964v2)** | 2025-08-25 |  |
 | **[SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](http://arxiv.org/abs/2503.12349v4)** | 2025-08-25 | 48 pages, 7 figures |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](http://arxiv.org/abs/2409.19134v4)** | 2025-08-25 |  |
@@ -64,7 +64,7 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](http://arxiv.org/abs/2508.18166v1)** | 2025-08-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference</p></details> |
+| **[PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](http://arxiv.org/abs/2508.18166v2)** | 2025-08-26 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference</p></details> |
 | **[S2Sent: Nested Selectivity Aware Sentence Representation Learning](http://arxiv.org/abs/2508.18164v1)** | 2025-08-25 |  |
 | **[Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning](http://arxiv.org/abs/2507.06469v2)** | 2025-08-25 |  |
 | **[Geometry-Aware Spiking Graph Neural Network](http://arxiv.org/abs/2508.06793v2)** | 2025-08-25 |  |
