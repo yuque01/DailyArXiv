@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 30, 2025
+title: Latest 15 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[rStar2-Agent: Agentic Reasoning Technical Report](http://arxiv.org/abs/2508.20722v1)** | 2025-08-28 |  |
 | **[Multi-cluster distributed optimization in open multi-agent systems over directed graphs with acknowledgement messages](http://arxiv.org/abs/2508.20715v1)** | 2025-08-28 |  |
 | **[LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions](http://arxiv.org/abs/2508.18321v2)** | 2025-08-28 |  |
-| **[CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics](http://arxiv.org/abs/2508.20643v1)** | 2025-08-28 | <details><summary>Code:...</summary><p>Code: https://github.com/SmartData-Polito/LLM_Agent_Cybersecurity_Forensic</p></details> |
-| **[GDS Agent: A Graph Algorithmic Reasoning Agent](http://arxiv.org/abs/2508.20637v1)** | 2025-08-28 | Technical report |
-| **[WideSearch: Benchmarking Agentic Broad Info-Seeking](http://arxiv.org/abs/2508.07999v2)** | 2025-08-28 |  |
-| **[MSARL: Decoupling Reasoning and Tool Use with Multi-Small-Agent Reinforcement Learning](http://arxiv.org/abs/2508.08882v2)** | 2025-08-28 |  |
-| **[Persode: Personalized Visual Journaling with Episodic Memory-Aware AI Agent](http://arxiv.org/abs/2508.20585v1)** | 2025-08-28 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
