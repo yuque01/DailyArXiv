@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v2)** | 2025-09-02 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
+| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v3)** | 2025-09-03 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
 | **[SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation](http://arxiv.org/abs/2504.14837v5)** | 2025-09-02 |  |
 | **[A Vision-Language Agent System for Compositional Reasoning with VLM-assisted Script and Executable Generation](http://arxiv.org/abs/2506.07778v2)** | 2025-09-02 |  |
 | **[Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark](http://arxiv.org/abs/2508.19005v2)** | 2025-09-02 |  |
@@ -67,7 +67,7 @@ labels: documentation
 | **[Boosting Generative Image Modeling via Joint Image-Feature Synthesis](http://arxiv.org/abs/2504.16064v2)** | 2025-09-01 | Preprint |
 | **[Mitigating Semantic Leakage in Cross-lingual Embeddings via Orthogonality Constraint](http://arxiv.org/abs/2409.15664v2)** | 2025-09-01 | <details><summary>ACL 2...</summary><p>ACL 2024 RepL4NLP Workshop</p></details> |
 | **[EEGDM: EEG Representation Learning via Generative Diffusion Model](http://arxiv.org/abs/2508.14086v3)** | 2025-09-01 | <details><summary>EEGDM...</summary><p>EEGDM Preprint 10 Pages</p></details> |
-| **[Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive Impairment Detection via Contrastive Learning](http://arxiv.org/abs/2505.17067v4)** | 2025-09-01 | <details><summary>IEEE ...</summary><p>IEEE Global Communications Conference (GlobeCom) 2025</p></details> |
+| **[Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive Impairment Detection via Contrastive Learning](http://arxiv.org/abs/2505.17067v5)** | 2025-09-03 | <details><summary>IEEE ...</summary><p>IEEE Global Communications Conference (GlobeCom) 2025</p></details> |
 | **[ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface](http://arxiv.org/abs/2504.06156v2)** | 2025-09-01 |  |
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
 | **[Contrastive MIM: A Contrastive Mutual Information Framework for Unified Generative and Discriminative Representation Learning](http://arxiv.org/abs/2411.10548v4)** | 2025-08-30 | <details><summary>Updat...</summary><p>Updated with image experiments and theoretical relation to InfoNCE</p></details> |
