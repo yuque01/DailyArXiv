@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -13,7 +13,7 @@ labels: documentation
 | **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v2)** | 2025-09-03 |  |
 | **[Multimodal learning of melt pool dynamics in laser powder bed fusion](http://arxiv.org/abs/2509.03029v1)** | 2025-09-03 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 1 table</p></details> |
 | **[Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](http://arxiv.org/abs/2509.02962v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to IEEE/ASME Transactions on Mechatronics</p></details> |
-| **[Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective](http://arxiv.org/abs/2509.02281v2)** | 2025-09-03 |  |
+| **[Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective](http://arxiv.org/abs/2509.02281v3)** | 2025-09-05 |  |
 | **[OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](http://arxiv.org/abs/2509.01644v1)** | 2025-09-01 |  |
 | **[Bangla-Bayanno: A 52K-Pair Bengali Visual Question Answering Dataset with LLM-Assisted Translation Refinement](http://arxiv.org/abs/2508.19887v1)** | 2025-08-27 |  |
 | **[AIM: Adaptive Intra-Network Modulation for Balanced Multimodal Learning](http://arxiv.org/abs/2508.19769v1)** | 2025-08-27 | 13pages,7 figures |
