@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -30,7 +30,7 @@ labels: documentation
 | **[Multimodal Latent Fusion of ECG Leads for Early Assessment of Pulmonary Hypertension](http://arxiv.org/abs/2503.13470v2)** | 2025-09-08 |  |
 | **[BriLLM: Brain-inspired Large Language Model](http://arxiv.org/abs/2503.11299v8)** | 2025-09-08 |  |
 | **[What Can We Learn from Harry Potter? An Exploratory Study of Visual Representation Learning from Atypical Videos](http://arxiv.org/abs/2508.21770v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025</p></details> |
-| **[Evolving from Unknown to Known: Retentive Angular Representation Learning for Incremental Open Set Recognition](http://arxiv.org/abs/2509.06570v1)** | 2025-09-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2025 IEEE/CVF International Conference on Computer Vision Workshops</p></details> |
+| **[Evolving from Unknown to Known: Retentive Angular Representation Learning for Incremental Open Set Recognition](http://arxiv.org/abs/2509.06570v2)** | 2025-09-09 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2025 IEEE/CVF International Conference on Computer Vision Workshops</p></details> |
 | **[SLiNT: Structure-aware Language Model with Injection and Contrastive Training for Knowledge Graph Completion](http://arxiv.org/abs/2509.06531v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by EMNLP Findings 2025</p></details> |
 | **[PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](http://arxiv.org/abs/2508.18166v4)** | 2025-09-08 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference</p></details> |
 | **[NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping](http://arxiv.org/abs/2410.05341v3)** | 2025-09-08 | <details><summary>This ...</summary><p>This preprint has been accepted to NeurIPS 2024</p></details> |
@@ -76,7 +76,7 @@ labels: documentation
 | **[Saturation-Driven Dataset Generation for LLM Mathematical Reasoning in the TPTP Ecosystem](http://arxiv.org/abs/2509.06809v1)** | 2025-09-08 |  |
 | **[Another Turn, Better Output? A Turn-Wise Analysis of Iterative LLM Prompting](http://arxiv.org/abs/2509.06770v1)** | 2025-09-08 |  |
 | **[Intelligent Manufacturing Support: Specialized LLMs for Composite Material Processing and Equipment Operation](http://arxiv.org/abs/2509.06734v1)** | 2025-09-08 |  |
-| **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP2025 Main</p></details> |
+| **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP2025 Main</p></details> |
 | **[ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding](http://arxiv.org/abs/2508.19576v2)** | 2025-09-08 | 21 pages, 4 figures |
 | **[Dynamically Adaptive Reasoning via LLM-Guided MCTS for Efficient and Context-Aware KGQA](http://arxiv.org/abs/2508.00719v3)** | 2025-09-08 |  |
 
@@ -90,7 +90,7 @@ labels: documentation
 | **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](http://arxiv.org/abs/2506.02019v2)** | 2025-09-08 | 19 pages, 8 figures |
 | **[Agentic DDQN-Based Scheduling for Licensed and Unlicensed Band Allocation in Sidelink Networks](http://arxiv.org/abs/2509.06775v1)** | 2025-09-08 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, accepted by 2025 IEEE Globecom Workshops</p></details> |
 | **[Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks](http://arxiv.org/abs/2509.06701v1)** | 2025-09-08 |  |
-| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v1)** | 2025-09-08 |  |
+| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v2)** | 2025-09-09 |  |
 | **[Game Theory and Multi-Agent Reinforcement Learning for Zonal Ancillary Markets](http://arxiv.org/abs/2505.03288v3)** | 2025-09-08 |  |
 | **[Demo: Healthcare Agent Orchestrator (HAO) for Patient Summarization in Molecular Tumor Boards](http://arxiv.org/abs/2509.06602v1)** | 2025-09-08 | 9 pages, 1 figure |
 | **[Simulating Dispute Mediation with LLM-Based Agents for Legal Research](http://arxiv.org/abs/2509.06586v1)** | 2025-09-08 |  |
