@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -31,7 +31,7 @@ labels: documentation
 | **[PEHRT: A Common Pipeline for Harmonizing Electronic Health Record data for Translational Research](http://arxiv.org/abs/2509.08553v1)** | 2025-09-10 |  |
 | **[Chirality in Action: Time-Aware Video Representation Learning by Latent Straightening](http://arxiv.org/abs/2509.08502v1)** | 2025-09-10 | 24 pages, 10 figures |
 | **[Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition](http://arxiv.org/abs/2509.08470v1)** | 2025-09-10 |  |
-| **[VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring](http://arxiv.org/abs/2509.08392v1)** | 2025-09-10 |  |
+| **[VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring](http://arxiv.org/abs/2509.08392v2)** | 2025-09-11 |  |
 | **[Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video](http://arxiv.org/abs/2509.08376v1)** | 2025-09-10 |  |
 | **[SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training](http://arxiv.org/abs/2509.08311v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval](http://arxiv.org/abs/2405.10160v3)** | 2025-09-09 | 14 pages, 7 figures |
@@ -74,7 +74,7 @@ labels: documentation
 | **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
 | **[ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System](http://arxiv.org/abs/2509.08736v1)** | 2025-09-10 |  |
 | **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation](http://arxiv.org/abs/2507.02253v4)** | 2025-09-10 | 31 pages, 7 figures |
+| **[Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation](http://arxiv.org/abs/2507.02253v5)** | 2025-09-11 | 31 pages, 7 figures |
 | **[LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](http://arxiv.org/abs/2503.13794v5)** | 2025-09-10 |  |
 | **[Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations](http://arxiv.org/abs/2509.08646v1)** | 2025-09-10 |  |
 | **[Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](http://arxiv.org/abs/2509.03867v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the EMNLP 2025 Main Conference</p></details> |
