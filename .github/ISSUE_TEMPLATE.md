@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -28,7 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training](http://arxiv.org/abs/2509.10426v1)** | 2025-09-12 |  |
 | **[GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning](http://arxiv.org/abs/2509.10305v1)** | 2025-09-12 | 6 pages, 5 figures |
-| **[LayerLock: Non-collapsing Representation Learning with Progressive Freezing](http://arxiv.org/abs/2509.10156v1)** | 2025-09-12 | ICCV 2025 |
+| **[LayerLock: Non-collapsing Representation Learning with Progressive Freezing](http://arxiv.org/abs/2509.10156v2)** | 2025-09-15 | ICCV 2025 |
 | **[BenchECG and xECG: a benchmark and baseline for ECG foundation models](http://arxiv.org/abs/2509.10151v1)** | 2025-09-12 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 22 tables</p></details> |
 | **[Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation](http://arxiv.org/abs/2411.02992v2)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
 | **[Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?](http://arxiv.org/abs/2503.07890v2)** | 2025-09-12 | <details><summary>ICCV ...</summary><p>ICCV 2025, camera ready</p></details> |
@@ -74,7 +74,7 @@ labels: documentation
 | **[The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis](http://arxiv.org/abs/2509.10297v1)** | 2025-09-12 | Work in progress |
 | **[Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes](http://arxiv.org/abs/2507.13335v2)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2025</p></details> |
 | **[Multi-Turn Human-LLM Interaction Through the Lens of a Two-Way Intelligibility Protocol](http://arxiv.org/abs/2410.20600v2)** | 2025-09-12 |  |
-| **[Prompt Injection Attacks on LLM Generated Reviews of Scientific Publications](http://arxiv.org/abs/2509.10248v1)** | 2025-09-12 |  |
+| **[Prompt Injection Attacks on LLM Generated Reviews of Scientific Publications](http://arxiv.org/abs/2509.10248v2)** | 2025-09-15 |  |
 | **[Benchmark of stylistic variation in LLM-generated texts](http://arxiv.org/abs/2509.10179v1)** | 2025-09-12 |  |
 | **[A Framework for Testing and Adapting REST APIs as LLM Tools](http://arxiv.org/abs/2504.15546v3)** | 2025-09-12 |  |
 | **[Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs](http://arxiv.org/abs/2509.05367v2)** | 2025-09-12 |  |
