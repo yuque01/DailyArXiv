@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -11,7 +11,7 @@ labels: documentation
 | **[Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion](http://arxiv.org/abs/2509.15578v1)** | 2025-09-19 |  |
 | **[Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues](http://arxiv.org/abs/2509.15540v1)** | 2025-09-19 | <details><summary>13 pa...</summary><p>13 page, 5 figures, uploaded by Wei Chen</p></details> |
 | **[Exploring the Capabilities of LLM Encoders for Image-Text Retrieval in Chest X-rays](http://arxiv.org/abs/2509.15234v1)** | 2025-09-17 | <details><summary>24 pa...</summary><p>24 pages, 2 figures, under review</p></details> |
-| **[VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI](http://arxiv.org/abs/2509.13767v1)** | 2025-09-17 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP</p></details> |
+| **[VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI](http://arxiv.org/abs/2509.13767v2)** | 2025-09-22 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP</p></details> |
 | **[Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI](http://arxiv.org/abs/2509.11924v2)** | 2025-09-16 |  |
 | **[Evaluating Robustness of Vision-Language Models Under Noisy Conditions](http://arxiv.org/abs/2509.12492v1)** | 2025-09-15 |  |
 | **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
@@ -70,7 +70,7 @@ labels: documentation
 | **[CultureScope: A Dimensional Lens for Probing Cultural Understanding in LLMs](http://arxiv.org/abs/2509.16188v1)** | 2025-09-19 |  |
 | **[On the Security of Tool-Invocation Prompts for LLM-Based Agentic Systems: An Empirical Risk Assessment](http://arxiv.org/abs/2509.05755v4)** | 2025-09-19 |  |
 | **[A Rigorous Evaluation of LLM Data Generation Strategies for Low-Resource Languages](http://arxiv.org/abs/2506.12158v3)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main</p></details> |
-| **[Automated CGRA Design with Multi-Agent LLMs: A Unified Hardware-Software Co-Design Framework](http://arxiv.org/abs/2509.13557v3)** | 2025-09-19 | <details><summary>Due t...</summary><p>Due to certain confidentiality requirements, this article needs to be withdrawn</p></details> |
+| **[MALTA: An Automated CGRA Design Framework](http://arxiv.org/abs/2509.13557v4)** | 2025-09-22 | <details><summary>Due t...</summary><p>Due to certain confidentiality requirements, this article needs to be withdrawn</p></details> |
 | **[HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?](http://arxiv.org/abs/2509.07894v4)** | 2025-09-19 |  |
 | **[SENTRA: Selected-Next-Token Transformer for LLM Text Detection](http://arxiv.org/abs/2509.12385v2)** | 2025-09-19 | EMNLP Findings 2025 |
 | **[Beyond Pointwise Scores: Decomposed Criteria-Based Evaluation of LLM Responses](http://arxiv.org/abs/2509.16093v1)** | 2025-09-19 |  |
@@ -88,7 +88,7 @@ labels: documentation
 | **[Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories](http://arxiv.org/abs/2509.16176v1)** | 2025-09-19 |  |
 | **[On the Security of Tool-Invocation Prompts for LLM-Based Agentic Systems: An Empirical Risk Assessment](http://arxiv.org/abs/2509.05755v4)** | 2025-09-19 |  |
 | **[Automated Cyber Defense with Generalizable Graph-based Reinforcement Learning Agents](http://arxiv.org/abs/2509.16151v1)** | 2025-09-19 |  |
-| **[Automated CGRA Design with Multi-Agent LLMs: A Unified Hardware-Software Co-Design Framework](http://arxiv.org/abs/2509.13557v3)** | 2025-09-19 | <details><summary>Due t...</summary><p>Due to certain confidentiality requirements, this article needs to be withdrawn</p></details> |
+| **[MALTA: An Automated CGRA Design Framework](http://arxiv.org/abs/2509.13557v4)** | 2025-09-22 | <details><summary>Due t...</summary><p>Due to certain confidentiality requirements, this article needs to be withdrawn</p></details> |
 | **[AdaSports-Traj: Role- and Domain-Aware Adaptation for Multi-Agent Trajectory Modeling in Sports](http://arxiv.org/abs/2509.16095v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
 | **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
 | **[Hierarchical Reinforcement Learning with Low-Level MPC for Multi-Agent Control](http://arxiv.org/abs/2509.15799v1)** | 2025-09-19 |  |
