@@ -2,7 +2,7 @@
 title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Recommendation System
 | **Title** | **Date** | **Comment** |
