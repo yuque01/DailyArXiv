@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,7 +17,7 @@ labels: documentation
 | **[OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](http://arxiv.org/abs/2509.18091v1)** | 2025-09-22 | <details><summary>OnePi...</summary><p>OnePiece Technical Report; Applied in Shopee</p></details> |
 | **[Serendipitous Recommendation with Multimodal LLM](http://arxiv.org/abs/2506.08283v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by 2025 Recsys EARL Workshop</p></details> |
 | **[Core-elements Subsampling for Alternating Least Squares](http://arxiv.org/abs/2509.18024v1)** | 2025-09-22 |  |
-| **[Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](http://arxiv.org/abs/2509.17918v1)** | 2025-09-22 |  |
+| **[Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](http://arxiv.org/abs/2509.17918v2)** | 2025-09-24 |  |
 | **[Predictable Drifts in Collective Cultural Attention: Evidence from Nation-Level Library Takeout Data](http://arxiv.org/abs/2507.12007v2)** | 2025-09-22 |  |
 | **[SeqUDA-Rec: Sequential User Behavior Enhanced Recommendation via Global Unsupervised Data Augmentation for Personalized Content Marketing](http://arxiv.org/abs/2509.17361v1)** | 2025-09-22 |  |
 | **[Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations](http://arxiv.org/abs/2509.17265v1)** | 2025-09-21 |  |
@@ -90,7 +90,7 @@ labels: documentation
 | **[Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems](http://arxiv.org/abs/2501.07373v2)** | 2025-09-23 |  |
 | **[ViG-LRGC: Vision Graph Neural Networks with Learnable Reparameterized Graph Construction](http://arxiv.org/abs/2509.18840v1)** | 2025-09-23 | Under Review |
 | **[NeuFACO: Neural Focused Ant Colony Optimization for Traveling Salesman Problem](http://arxiv.org/abs/2509.16938v2)** | 2025-09-23 | <details><summary>Submi...</summary><p>Submitted to RIVF'25. Code is available at https://github.com/shoraaa/NeuFACO</p></details> |
-| **[EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](http://arxiv.org/abs/2505.15140v2)** | 2025-09-23 |  |
+| **[EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](http://arxiv.org/abs/2505.15140v3)** | 2025-09-24 | <details><summary>This ...</summary><p>This paper has been accepted by 2025 IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
 | **[Long-Range Graph Wavelet Networks](http://arxiv.org/abs/2509.06743v2)** | 2025-09-23 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: New Perspectives in Advancing Graph Machine Learning</p></details> |
 | **[Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models](http://arxiv.org/abs/2509.18742v1)** | 2025-09-23 |  |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
