@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,7 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v1)** | 2025-09-25 |  |
+| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v2)** | 2025-09-26 |  |
 | **[It's Not You, It's Clipping: A Soft Trust-Region via Probability Smoothing for LLM RL](http://arxiv.org/abs/2509.21282v1)** | 2025-09-25 |  |
 | **[Data-Centric Elastic Pipeline Parallelism for Efficient Long-Context LLM Training](http://arxiv.org/abs/2509.21275v1)** | 2025-09-25 |  |
 | **[SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips](http://arxiv.org/abs/2509.21271v1)** | 2025-09-25 | 16 pages, 15 figures |
@@ -78,7 +78,7 @@ labels: documentation
 | **[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective](http://arxiv.org/abs/2509.21134v1)** | 2025-09-25 | 22 pages, 14 figures |
 | **[RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs](http://arxiv.org/abs/2509.21128v1)** | 2025-09-25 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v2)** | 2025-09-25 | 18 pages,5 figures |
-| **[TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them](http://arxiv.org/abs/2509.21117v1)** | 2025-09-25 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 6 tables</p></details> |
+| **[TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them](http://arxiv.org/abs/2509.21117v2)** | 2025-09-26 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 6 tables</p></details> |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
@@ -94,7 +94,7 @@ labels: documentation
 | **[Enhancing Molecular Property Prediction with Knowledge from Large Language Models](http://arxiv.org/abs/2509.20664v1)** | 2025-09-25 | 9 pages, 5 figures |
 | **[Exploring Graph-Transformer Out-of-Distribution Generalization Abilities](http://arxiv.org/abs/2506.20575v2)** | 2025-09-24 |  |
 | **[Graph Variate Neural Networks](http://arxiv.org/abs/2509.20311v1)** | 2025-09-24 |  |
-| **[Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs](http://arxiv.org/abs/2506.22095v3)** | 2025-09-24 | 29 pages, 6 Figures |
+| **[Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs](http://arxiv.org/abs/2506.22095v4)** | 2025-09-26 | 29 pages, 6 Figures |
 | **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v6)** | 2025-09-24 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
 | **[EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](http://arxiv.org/abs/2505.15140v3)** | 2025-09-24 | <details><summary>This ...</summary><p>This paper has been accepted by 2025 IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
 | **[The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration](http://arxiv.org/abs/2504.15147v2)** | 2025-09-24 | <details><summary>v2: M...</summary><p>v2: Major revision. Extended the neural acceleration model to support problems with a limited drone flying range. Added new experimental results</p></details> |
