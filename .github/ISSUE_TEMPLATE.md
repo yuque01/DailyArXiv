@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation](http://arxiv.org/abs/2507.20210v2)** | 2025-10-02 | MIWAI 2025 |
-| **[C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems](http://arxiv.org/abs/2510.02215v1)** | 2025-10-02 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
+| **[C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems](http://arxiv.org/abs/2510.02215v2)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Break the ID-Language Barrier: An Adaption Framework for LLM-based Sequential Recommendation](http://arxiv.org/abs/2411.18262v3)** | 2025-10-02 |  |
 | **[Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](http://arxiv.org/abs/2509.17918v3)** | 2025-10-02 |  |
 | **[Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds](http://arxiv.org/abs/2510.01871v1)** | 2025-10-02 | 12 pages, 4 figures |
@@ -39,7 +39,7 @@ labels: documentation
 | **[Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery](http://arxiv.org/abs/2510.01662v1)** | 2025-10-02 |  |
 | **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v2)** | 2025-10-02 | <details><summary>Fixed...</summary><p>Fixed and extended results</p></details> |
 | **[BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning](http://arxiv.org/abs/2510.01632v1)** | 2025-10-02 |  |
-| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v2)** | 2025-10-02 | <details><summary>There...</summary><p>There are quality issues with the paper and it requires major revisions</p></details> |
+| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v3)** | 2025-10-03 | <details><summary>The o...</summary><p>The original paper has issues and has been restructured in the work; it is no longer suitable, so I am applying for withdrawal</p></details> |
 | **[Self-Supervised Representation Learning as Mutual Information Maximization](http://arxiv.org/abs/2510.01345v1)** | 2025-10-01 |  |
 
 ## Graph Transformers
