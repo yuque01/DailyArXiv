@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -10,7 +10,7 @@ labels: documentation
 | **[FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens](http://arxiv.org/abs/2510.15729v1)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Enhance Large Language Models as Recommendation Systems with Collaborative Filtering](http://arxiv.org/abs/2510.15647v1)** | 2025-10-17 |  |
 | **[Similarity-Based Supervised User Session Segmentation Method for Behavior Logs](http://arxiv.org/abs/2508.16106v2)** | 2025-10-17 |  |
-| **[Large-scale User Game Lifecycle Representation Learning](http://arxiv.org/abs/2510.15412v1)** | 2025-10-17 |  |
+| **[Large-scale User Game Lifecycle Representation Learning](http://arxiv.org/abs/2510.15412v2)** | 2025-10-20 |  |
 | **[Dimension Mask Layer: Optimizing Embedding Efficiency for Scalable ID-based Models](http://arxiv.org/abs/2510.15308v1)** | 2025-10-17 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 2 tables</p></details> |
 | **[GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework](http://arxiv.org/abs/2510.15299v1)** | 2025-10-17 |  |
 | **[MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation](http://arxiv.org/abs/2510.15286v1)** | 2025-10-17 |  |
@@ -34,10 +34,10 @@ labels: documentation
 | **[When Does Closeness in Distribution Imply Representational Similarity? An Identifiability Perspective](http://arxiv.org/abs/2506.03784v2)** | 2025-10-17 |  |
 | **[Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification](http://arxiv.org/abs/2502.06619v3)** | 2025-10-17 |  |
 | **[Self-Supervised Representation Learning with ID-Content Modality Alignment for Sequential Recommendation](http://arxiv.org/abs/2510.10556v2)** | 2025-10-17 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-50269-4}</p></details> |
-| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v1)** | 2025-10-17 |  |
+| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v2)** | 2025-10-20 | <details><summary>Withd...</summary><p>Withdrawn due to an accidental duplicate submission. This paper (arXiv:2510.15430) was unintentionally submitted as a new entry instead of a new version of our previous work (arXiv:2508.09201)</p></details> |
 | **[Landmark-Based Node Representations for Shortest Path Distance Approximations in Random Graphs](http://arxiv.org/abs/2504.08216v3)** | 2025-10-17 | <details><summary>Landm...</summary><p>Landmark-based embeddings preserve global distances in graphs more efficiently; on Erdos-Renyi random graphs they need lower dimensions, and GNNs generalize these embeddings to large real-world networks</p></details> |
 | **[A Generative Framework for Personalized Sticker Retrieval](http://arxiv.org/abs/2509.17749v3)** | 2025-10-17 | <details><summary>Findi...</summary><p>Findings of EMNLP2025</p></details> |
-| **[Large-scale User Game Lifecycle Representation Learning](http://arxiv.org/abs/2510.15412v1)** | 2025-10-17 |  |
+| **[Large-scale User Game Lifecycle Representation Learning](http://arxiv.org/abs/2510.15412v2)** | 2025-10-20 |  |
 | **[UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection](http://arxiv.org/abs/2503.12009v3)** | 2025-10-17 | Accepted to CVPR2025 |
 | **[Towards Robust Zero-Shot Reinforcement Learning](http://arxiv.org/abs/2510.15382v1)** | 2025-10-17 | <details><summary>Neuri...</summary><p>Neurips 2025, 36 pages, 18 figures</p></details> |
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
@@ -90,7 +90,7 @@ labels: documentation
 | **[Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks](http://arxiv.org/abs/2510.15333v1)** | 2025-10-17 |  |
 | **[Spatiotemporal Traffic Prediction in Distributed Backend Systems via Graph Neural Networks](http://arxiv.org/abs/2510.15215v1)** | 2025-10-17 |  |
 | **[Structural Generalization for Microservice Routing Using Graph Neural Networks](http://arxiv.org/abs/2510.15210v1)** | 2025-10-17 |  |
-| **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v1)** | 2025-10-16 |  |
+| **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v2)** | 2025-10-20 | <details><summary>This ...</summary><p>This is the authors' extended version of the paper accepted for publication at the ACM SIGSAC Conference on Computer and Communications Security (CCS 2025). The final published version is available at https://doi.org/10.1145/3719027.3765219</p></details> |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
 | **[A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis](http://arxiv.org/abs/2510.15750v1)** | 2025-10-16 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 5 tables. Code available at:https://github.com/SinghNayanKumar/DL-surrogate-modelling</p></details> |
 | **[Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network](http://arxiv.org/abs/2510.14243v1)** | 2025-10-16 | <details><summary>submi...</summary><p>submited to IEEE journal</p></details> |
