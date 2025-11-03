@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -55,7 +55,7 @@ labels: documentation
 | **[Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework](http://arxiv.org/abs/2510.18825v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 (Poster)</p></details> |
 | **[Soft Graph Transformer for MIMO Detection](http://arxiv.org/abs/2509.12694v3)** | 2025-10-17 | <details><summary>5 pag...</summary><p>5 pages with 3 figures and 2 tables, submitted to IEEE for a possible publication</p></details> |
 | **[A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis](http://arxiv.org/abs/2510.15750v1)** | 2025-10-16 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 5 tables. Code available at:https://github.com/SinghNayanKumar/DL-surrogate-modelling</p></details> |
-| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](http://arxiv.org/abs/2510.14336v1)** | 2025-10-16 |  |
+| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](http://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction](http://arxiv.org/abs/2510.12719v1)** | 2025-10-14 |  |
 | **[GraphTARIF: Linear Graph Transformer with Augmented Rank and Improved Focus](http://arxiv.org/abs/2510.10631v1)** | 2025-10-12 |  |
 | **[HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network](http://arxiv.org/abs/2510.09767v1)** | 2025-10-10 |  |
