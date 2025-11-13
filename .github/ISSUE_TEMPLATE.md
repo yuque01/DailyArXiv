@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,95 +7,95 @@ labels: documentation
 ## Recommendation System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Learning](http://arxiv.org/abs/2507.05636v2)** | 2025-11-07 | 185 pages |
-| **[Retrieval-Augmented Review Generation for Poisoning Recommender Systems](http://arxiv.org/abs/2508.15252v2)** | 2025-11-06 |  |
-| **[LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems](http://arxiv.org/abs/2511.04541v1)** | 2025-11-06 |  |
-| **[Estimating Hitting Times Locally At Scale](http://arxiv.org/abs/2511.04343v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for presentation at NeurIPS 2025</p></details> |
-| **[Denoised Recommendation Model with Collaborative Signal Decoupling](http://arxiv.org/abs/2511.04237v1)** | 2025-11-06 |  |
-| **[ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads](http://arxiv.org/abs/2511.04162v1)** | 2025-11-06 |  |
-| **[KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng](http://arxiv.org/abs/2511.03298v1)** | 2025-11-05 |  |
-| **[Generative Sequential Recommendation via Hierarchical Behavior Modeling](http://arxiv.org/abs/2511.03155v1)** | 2025-11-05 |  |
-| **[Average Precision at Cutoff k under Random Rankings: Expectation and Variance](http://arxiv.org/abs/2511.02571v1)** | 2025-11-04 | <details><summary>17 pa...</summary><p>17 pages, 2 tables, 2 figures</p></details> |
-| **[Diffusion Generative Recommendation with Continuous Tokens](http://arxiv.org/abs/2504.12007v3)** | 2025-11-04 |  |
-| **[Stochastic Deep Graph Clustering for Practical Group Formation](http://arxiv.org/abs/2511.02879v1)** | 2025-11-04 |  |
-| **[Differentiable Fast Top-K Selection for Large-Scale Recommendation](http://arxiv.org/abs/2510.11472v2)** | 2025-11-04 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Minor corrections in v2</p></details> |
-| **[UFGraphFR: Graph Federation Recommendation System based on User Text description features](http://arxiv.org/abs/2501.08044v4)** | 2025-11-04 |  |
-| **[Solving cold start in news recommendations: a RippleNet-based system for large scale media outlet](http://arxiv.org/abs/2511.02052v1)** | 2025-11-03 |  |
-| **[HADSF: Aspect Aware Semantic Control for Explainable Recommendation](http://arxiv.org/abs/2510.26994v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026</p></details> |
+| **[A Hybrid Recommender System for Recommending Smartphones to Prospective Customers](https://arxiv.org/pdf/2105.12876v2)** | 2022-07-20 | <details><summary>Exper...</summary><p>Expert Systems With Applications, 2022</p></details> |
+| **[Recommender Systems](https://arxiv.org/pdf/1202.1112v1)** | 2015-06-04 | <details><summary>97 pa...</summary><p>97 pages, 20 figures (To appear in Physics Reports)</p></details> |
+| **[Recommender Systems: A Primer](https://arxiv.org/pdf/2302.02579v1)** | 2023-02-07 |  |
+| **[A Survey Paper on Recommender Systems](https://arxiv.org/pdf/1006.5278v4)** | 2016-11-25 | <details><summary>This ...</summary><p>This paper has some typos in it</p></details> |
+| **[Impression-Aware Recommender Systems](https://arxiv.org/pdf/2308.07857v2)** | 2024-12-18 | <details><summary>44 pa...</summary><p>44 pages, 127 references, 6 tables, 5 figures, ACM TORS ACCEPTED</p></details> |
+| **[A Survey on the Fairness of Recommender Systems](https://arxiv.org/pdf/2206.03761v2)** | 2022-07-12 | <details><summary>Submi...</summary><p>Submitted to the Special Section on Trustworthy Recommendation and Search of ACM TOIS on March 27, 2022 and accepted on June 6</p></details> |
+| **[The Amplification Paradox in Recommender Systems](https://arxiv.org/pdf/2302.11225v2)** | 2023-04-06 | <details><summary>Accep...</summary><p>Accepted at ICWSM'23 please cite accordingly</p></details> |
+| **[An MDP-based Recommender System](https://arxiv.org/pdf/1301.0600v2)** | 2015-05-19 | <details><summary>Appea...</summary><p>Appears in Proceedings of the Eighteenth Conference on Uncertainty in Artificial Intelligence (UAI2002)</p></details> |
+| **[Recommender systems in industrial contexts](https://arxiv.org/pdf/1203.4487v2)** | 2012-05-15 | <details><summary>versi...</summary><p>version 3.30, May 2012</p></details> |
+| **[Estimating Probabilities in Recommendation Systems](https://arxiv.org/pdf/1012.0498v1)** | 2010-12-03 |  |
+| **[A Brief History of Recommender Systems](https://arxiv.org/pdf/2209.01860v1)** | 2022-09-07 |  |
+| **[Quantifying the Effects of Recommendation Systems](https://arxiv.org/pdf/2002.01077v1)** | 2020-02-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, accepted into the National Symposium of IEEE Big Data 2019</p></details> |
+| **[Quantum Recommendation Systems](https://arxiv.org/pdf/1603.08675v3)** | 2016-09-23 | 22 pages |
+| **[A Survey on Federated Recommendation Systems](https://arxiv.org/pdf/2301.00767v2)** | 2023-03-10 |  |
+| **[Streaming Recommender Systems](https://arxiv.org/pdf/1607.06182v1)** | 2016-07-22 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advanced Hybrid Transformer LSTM Technique with Attention and TS Mixer for Drilling Rate of Penetration Prediction](http://arxiv.org/abs/2508.05210v3)** | 2025-11-07 | <details><summary>31 Pa...</summary><p>31 Pages, 16 Figures, 9 Tables</p></details> |
-| **[ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining](http://arxiv.org/abs/2511.05245v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance](http://arxiv.org/abs/2507.09601v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted at FinAI@CIKM 2025</p></details> |
-| **[Distributionally robust self-supervised learning for tabular data](http://arxiv.org/abs/2410.08511v6)** | 2025-11-07 | <details><summary>TRL W...</summary><p>TRL Workshop@NeurIPS2024</p></details> |
-| **[KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning](http://arxiv.org/abs/2508.08186v3)** | 2025-11-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Causal Structure and Representation Learning with Biomedical Applications](http://arxiv.org/abs/2511.04790v1)** | 2025-11-06 | <details><summary>This ...</summary><p>This article has successfully completed peer review and will appear in the Proceedings of the International Congress of Mathematicians 2026. Both authors contributed equally to this work</p></details> |
-| **[DORAEMON: A Unified Library for Visual Object Modeling and Representation Learning at Scale](http://arxiv.org/abs/2511.04394v1)** | 2025-11-06 | <details><summary>code:...</summary><p>code: https://github.com/wuji3/DORAEMON</p></details> |
-| **[MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](http://arxiv.org/abs/2511.04320v1)** | 2025-11-06 |  |
-| **[DINOv2 Driven Gait Representation Learning for Video-Based Visible-Infrared Person Re-identification](http://arxiv.org/abs/2511.04281v1)** | 2025-11-06 |  |
-| **[Causal Graph Neural Networks for Healthcare](http://arxiv.org/abs/2511.02531v2)** | 2025-11-06 |  |
-| **[Explanations Go Linear: Interpretable and Individual Latent Encoding for Post-hoc Explainability](http://arxiv.org/abs/2504.20667v2)** | 2025-11-06 | ICDM 2025 |
-| **[HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data](http://arxiv.org/abs/2510.11321v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted at 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning](http://arxiv.org/abs/2505.19442v3)** | 2025-11-06 |  |
-| **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v5)** | 2025-11-05 | 34 pages |
-| **[Disentanglement with Factor Quantized Variational Autoencoders](http://arxiv.org/abs/2409.14851v3)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to Neurocomputing</p></details> |
+| **[Representation Learning: A Statistical Perspective](https://arxiv.org/pdf/1911.11374v1)** | 2019-11-27 |  |
+| **[Learning sparse representations in reinforcement learning](https://arxiv.org/pdf/1909.01575v1)** | 2019-09-05 |  |
+| **[When Representations Align: Universality in Representation Learning Dynamics](https://arxiv.org/pdf/2402.09142v2)** | 2024-07-08 | 22 pages, 16 figures |
+| **[Provable benefits of representation learning](https://arxiv.org/pdf/1706.04601v1)** | 2017-06-15 | 22 pages |
+| **[Socially Supervised Representation Learning: the Role of Subjectivity in Learning Efficient Representations](https://arxiv.org/pdf/2109.09390v4)** | 2022-09-23 |  |
+| **[Task-Induced Representation Learning](https://arxiv.org/pdf/2204.11827v1)** | 2022-04-26 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR), 2022</p></details> |
+| **[Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588v2)** | 2019-11-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS19, 15 pages, 10 figures, open-source, representation learning, continual learning, online learning</p></details> |
+| **[Learning Sparse Representations Incrementally in Deep Reinforcement Learning](https://arxiv.org/pdf/1912.04002v1)** | 2019-12-10 |  |
+| **[Playful Interactions for Representation Learning](https://arxiv.org/pdf/2107.09046v1)** | 2021-07-20 |  |
+| **[Representation Learning by Learning to Count](https://arxiv.org/pdf/1708.06734v1)** | 2017-08-23 | ICCV 2017(oral) |
+| **[Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538v3)** | 2014-04-24 |  |
+| **[Matryoshka Representation Learning](https://arxiv.org/pdf/2205.13147v4)** | 2024-02-09 | <details><summary>Edite...</summary><p>Edited related work to include intrinsic dimensionality works</p></details> |
+| **[Flow Factorized Representation Learning](https://arxiv.org/pdf/2309.13167v1)** | 2023-09-26 | NeurIPS23 |
+| **[Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations](https://arxiv.org/pdf/2312.00101v1)** | 2023-12-04 | <details><summary>PhD T...</summary><p>PhD Thesis, 223 pages, Abstract in English, Spanish and Catalan, 4 appendices</p></details> |
+| **[Contextures: The Mechanism of Representation Learning](https://arxiv.org/pdf/2504.19792v1)** | 2025-04-29 | PhD Dissertation |
 
 ## Graph Transformers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction](http://arxiv.org/abs/2511.05483v1)** | 2025-11-07 |  |
-| **[Integrating Temporal and Structural Context in Graph Transformers for Relational Deep Learning](http://arxiv.org/abs/2511.04557v1)** | 2025-11-06 |  |
-| **[Unified Generative Latent Representation for Functional Brain Graphs](http://arxiv.org/abs/2511.04539v1)** | 2025-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations</p></details> |
-| **[Generalizing Graph Transformers Across Diverse Graphs and Tasks via Pre-training](http://arxiv.org/abs/2407.03953v4)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
-| **[QAGT-MLP: An Attention-Based Graph Transformer for Small and Large-Scale Quantum Error Mitigation](http://arxiv.org/abs/2511.03119v2)** | 2025-11-09 |  |
-| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v3)** | 2025-11-02 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
-| **[Structurally Refined Graph Transformer for Multimodal Recommendation](http://arxiv.org/abs/2511.00584v1)** | 2025-11-01 | <details><summary>Comme...</summary><p>Comment: 13 pages, 7 figures, accepted by IEEE Transactions on Multimedia 2025</p></details> |
-| **[Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence](http://arxiv.org/abs/2502.09263v3)** | 2025-11-01 | ICML 2025 |
-| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](http://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
-| **[Same Same But Different: Preventing Refactoring Attacks on Software Plagiarism Detection](http://arxiv.org/abs/2510.25057v1)** | 2025-10-29 | <details><summary>To be...</summary><p>To be published at ICSE'26. 13 pages, 6 figures</p></details> |
-| **[DynBERG: Dynamic BERT-based Graph neural network for financial fraud detection](http://arxiv.org/abs/2511.00047v1)** | 2025-10-28 |  |
-| **[Inferring Group Intent as a Cooperative Game. An NLP-based Framework for Trajectory Analysis using Graph Transformer Neural Network](http://arxiv.org/abs/2510.23905v1)** | 2025-10-27 |  |
-| **[FoGE: Fock Space inspired encoding for graph prompting](http://arxiv.org/abs/2507.02937v2)** | 2025-10-27 |  |
-| **[Bhav-Net: Knowledge Transfer for Cross-Lingual Antonym vs Synonym Distinction via Dual-Space Graph Transformers](http://arxiv.org/abs/2508.15792v3)** | 2025-10-25 | <details><summary>Found...</summary><p>Found some issues and need to correct them</p></details> |
-| **[Relieving the Over-Aggregating Effect in Graph Transformers](http://arxiv.org/abs/2510.21267v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Graph Transformers: A Survey](https://arxiv.org/pdf/2407.09777v1)** | 2024-07-16 | 23 pages, 4 figures |
+| **[Transformers as Graph-to-Graph Models](https://arxiv.org/pdf/2310.17936v1)** | 2023-10-30 | <details><summary>Accep...</summary><p>Accepted to Big Picture workshop at EMNLP 2023</p></details> |
+| **[Attending to Graph Transformers](https://arxiv.org/pdf/2302.04181v3)** | 2024-04-01 |  |
+| **[Exphormer: Sparse Transformers for Graphs](https://arxiv.org/pdf/2303.06147v2)** | 2023-07-25 |  |
+| **[Adaptively Transforming Graph Matching](https://arxiv.org/pdf/1807.10160v1)** | 2018-07-27 |  |
+| **[Topology-Informed Graph Transformer](https://arxiv.org/pdf/2402.02005v2)** | 2025-03-04 | <details><summary>Proce...</summary><p>Proceedings of the Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM) at ICML 2024</p></details> |
+| **[A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699v2)** | 2021-01-26 | <details><summary>AAAI ...</summary><p>AAAI 2021 Workshop on Deep Learning on Graphs: Methods and Applications (DLG-AAAI 2021); Code at https://github.com/graphdeeplearning/graphtransformer</p></details> |
+| **[Study on (r,s)- Generalised Transformation Graphs, A Novel Perspective Based on Transformation Graphs](https://arxiv.org/pdf/2410.09122v1)** | 2024-10-15 |  |
+| **[Multilevel Typed Graph Transformations](https://arxiv.org/pdf/2006.14612v1)** | 2020-06-26 | <details><summary>In th...</summary><p>In the proceedings of the 13th International Conference on Graph Transformation (ICGT 2020)</p></details> |
+| **[On the Complexity of Local Graph Transformations](https://arxiv.org/pdf/1904.11395v2)** | 2020-09-11 | <details><summary>This ...</summary><p>This publication is the full version of a paper that appeared at ICALP'19</p></details> |
+| **[Transforming Property Graphs](https://arxiv.org/pdf/2406.13062v1)** | 2024-06-21 | <details><summary>To ap...</summary><p>To appear in VLDB 2024</p></details> |
+| **[Graph Propagation Transformer for Graph Representation Learning](https://arxiv.org/pdf/2305.11424v3)** | 2024-10-10 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2023</p></details> |
+| **[Theoretical Insights into Line Graph Transformation on Graph Learning](https://arxiv.org/pdf/2410.16138v2)** | 2025-03-21 | <details><summary>21 pa...</summary><p>21 pages, code available at https://github.com/lukeyf/graphs-and-lines</p></details> |
+| **[Automatic Graph Topology-Aware Transformer](https://arxiv.org/pdf/2405.19779v2)** | 2024-10-24 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Neural Networks and Learning Systems</p></details> |
+| **[Transforming Graphs for Enhanced Attribute Clustering: An Innovative Graph Transformer-Based Method](https://arxiv.org/pdf/2306.11307v3)** | 2023-08-15 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MACO: A Multi-Agent LLM-Based Hardware/Software Co-Design Framework for CGRAs](http://arxiv.org/abs/2509.13557v5)** | 2025-11-07 |  |
-| **[XBreaking: Understanding how LLMs security alignment can be broken](http://arxiv.org/abs/2504.21700v3)** | 2025-11-07 |  |
-| **[Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance](http://arxiv.org/abs/2511.05311v1)** | 2025-11-07 |  |
-| **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](http://arxiv.org/abs/2511.05269v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 MAS Workshop. This version includes additional experiments and analysis</p></details> |
-| **[LLM4FaaS: No-Code Application Development using LLMs and FaaS](http://arxiv.org/abs/2502.14450v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE/ACM 18th International Conference on Utility and Cloud Computing</p></details> |
-| **[Mind the Blind Spots: A Focus-Level Evaluation Framework for LLM Reviews](http://arxiv.org/abs/2502.17086v4)** | 2025-11-07 | EMNLP 2025 Oral |
-| **[Holistic Evaluation of Multimodal LLMs on Spatial Intelligence](http://arxiv.org/abs/2508.13142v3)** | 2025-11-07 | <details><summary>Codeb...</summary><p>Codebase: https://github.com/EvolvingLMMs-Lab/EASI/</p></details> |
-| **[Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities](http://arxiv.org/abs/2410.18469v6)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 Main (Oral)</p></details> |
-| **[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](http://arxiv.org/abs/2510.25441v2)** | 2025-11-07 | 27 pages, 5 figures |
-| **[Boardwalk: Towards a Framework for Creating Board Games with LLMs](http://arxiv.org/abs/2508.16447v2)** | 2025-11-07 | <details><summary>Prese...</summary><p>Presented at SBGames 2025</p></details> |
-| **[Usando LLMs para Programar Jogos de Tabuleiro e Variações](http://arxiv.org/abs/2511.05114v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted for presentation at the I Escola Regional de Aprendizado de M\'aquina e Intelig\^encia Artificial da Regi\~ao Sul, 2025, in Portuguese language</p></details> |
-| **[CompressionAttack: Exploiting Prompt Compression as a New Attack Surface in LLM-Powered Agents](http://arxiv.org/abs/2510.22963v2)** | 2025-11-07 |  |
-| **[On Text Simplification Metrics and General-Purpose LLMs for Accessible Health Information, and A Potential Architectural Advantage of The Instruction-Tuned LLM class](http://arxiv.org/abs/2511.05080v1)** | 2025-11-07 |  |
-| **[String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation](http://arxiv.org/abs/2510.21150v2)** | 2025-11-07 |  |
-| **[Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](http://arxiv.org/abs/2503.04412v5)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted as a spotlight at NeurIPS 2025</p></details> |
+| **[Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/pdf/2404.03602v2)** | 2024-07-30 | <details><summary>COLM ...</summary><p>COLM 2024, 46 pages, Benchmark and code: https://github.com/psunlpgroup/ReaLMistake</p></details> |
+| **[Trust & Safety of LLMs and LLMs in Trust & Safety](https://arxiv.org/pdf/2412.02113v2)** | 2025-07-01 | 11 pages |
+| **[LLM Chemistry Estimation for Multi-LLM Recommendation](https://arxiv.org/pdf/2510.03930v1)** | 2025-10-07 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 5 tables</p></details> |
+| **[On the Roles of LLMs in Planning: Embedding LLMs into Planning Graphs](https://arxiv.org/pdf/2403.00783v2)** | 2024-07-29 |  |
+| **[VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs](https://arxiv.org/pdf/2508.03097v1)** | 2025-08-06 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, published in KDD2025</p></details> |
+| **[When One LLM Drools, Multi-LLM Collaboration Rules](https://arxiv.org/pdf/2502.04506v1)** | 2025-02-10 |  |
+| **[LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](https://arxiv.org/pdf/2410.02425v1)** | 2024-10-04 | <details><summary>Accep...</summary><p>Accepted to the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '24)</p></details> |
+| **[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods](https://arxiv.org/pdf/2412.05579v2)** | 2024-12-11 | <details><summary>60 pa...</summary><p>60 pages, comprehensive and continuously updated</p></details> |
+| **[LLM-Sketch: Enhancing Network Sketches with LLM](https://arxiv.org/pdf/2502.07495v1)** | 2025-02-12 |  |
+| **[CS1-LLM: Integrating LLMs into CS1 Instruction](https://arxiv.org/pdf/2406.15379v1)** | 2024-06-25 | <details><summary>to be...</summary><p>to be published in Proceedings of the 29th ACM conference on innovation and technology in computer science education (ITiCSE)</p></details> |
+| **[Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives](https://arxiv.org/pdf/2502.04358v2)** | 2025-05-30 | <details><summary>In Pr...</summary><p>In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025); 13 pages including references</p></details> |
+| **[Set-LLM: A Permutation-Invariant LLM](https://arxiv.org/pdf/2505.15433v1)** | 2025-05-22 |  |
+| **[Can You Trust LLM Judgments? Reliability of LLM-as-a-Judge](https://arxiv.org/pdf/2412.12509v2)** | 2025-02-19 |  |
+| **[Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions](https://arxiv.org/pdf/2312.02913v1)** | 2023-12-06 | <details><summary>Accep...</summary><p>Accepted at WSDM 2024</p></details> |
+| **[GUARD-D-LLM: An LLM-Based Risk Assessment Engine for the Downstream uses of LLMs](https://arxiv.org/pdf/2406.11851v1)** | 2024-06-19 |  |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction](http://arxiv.org/abs/2511.05483v1)** | 2025-11-07 |  |
-| **[No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models](http://arxiv.org/abs/2511.05179v1)** | 2025-11-07 |  |
-| **[Graph Learning](http://arxiv.org/abs/2507.05636v2)** | 2025-11-07 | 185 pages |
-| **[Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding](http://arxiv.org/abs/2511.04984v1)** | 2025-11-07 | <details><summary>Abstr...</summary><p>Abstract 1 page, main text 9 pages, references 2 pages, 4 figures. Submitted to RECOMB 2026</p></details> |
-| **[SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanced Molecular Property Regression](http://arxiv.org/abs/2511.04838v1)** | 2025-11-06 |  |
-| **[SolarCrossFormer: Improving day-ahead Solar Irradiance Forecasting by Integrating Satellite Imagery and Ground Sensors](http://arxiv.org/abs/2509.15827v2)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, accepted for publication in IEEE Transactions on Sustainable Energy</p></details> |
-| **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](http://arxiv.org/abs/2505.08614v4)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 7 tables</p></details> |
-| **[Causal Graph Neural Networks for Healthcare](http://arxiv.org/abs/2511.02531v2)** | 2025-11-06 |  |
-| **[Graph Neural Networks for User Satisfaction Classification in Human-Computer Interaction](http://arxiv.org/abs/2511.04166v1)** | 2025-11-06 |  |
-| **[ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads](http://arxiv.org/abs/2511.04162v1)** | 2025-11-06 |  |
-| **[DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection](http://arxiv.org/abs/2511.04086v1)** | 2025-11-06 |  |
-| **[Plan of Knowledge: Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering](http://arxiv.org/abs/2511.04072v1)** | 2025-11-06 | <details><summary>Submi...</summary><p>Submitted to the IEEE for possible publication</p></details> |
-| **[GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization](http://arxiv.org/abs/2511.04008v1)** | 2025-11-06 | 6 pages, 3 figures |
-| **[Local Fragments, Global Gains: Subgraph Counting using Graph Neural Networks](http://arxiv.org/abs/2305.19659v4)** | 2025-11-05 |  |
-| **[Sketch-Augmented Features Improve Learning Long-Range Dependencies in Graph Neural Networks](http://arxiv.org/abs/2511.03824v1)** | 2025-11-05 | <details><summary>To ap...</summary><p>To appear at NeurIPS 2025</p></details> |
+| **[Factor Graph Neural Network](https://arxiv.org/pdf/1906.00554v1)** | 2019-06-04 |  |
+| **[Neural Graph Machines: Learning Neural Networks Using Graphs](https://arxiv.org/pdf/1703.04818v1)** | 2017-03-16 | 9 pages |
+| **[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/pdf/2403.12143v3)** | 2024-07-24 | <details><summary>In IC...</summary><p>In ICLR 2024. Source code: https://github.com/mkofinas/neural-graphs</p></details> |
+| **[Superhypergraph Neural Networks and Plithogenic Graph Neural Networks: Theoretical Foundations](https://arxiv.org/pdf/2412.01176v1)** | 2025-05-26 | 77 pages; 3 figures |
+| **[Graph Structure of Neural Networks](https://arxiv.org/pdf/2007.06559v2)** | 2020-08-28 | <details><summary>ICML ...</summary><p>ICML 2020, with open-source code</p></details> |
+| **[Customized Graph Neural Networks](https://arxiv.org/pdf/2005.12386v2)** | 2021-12-15 |  |
+| **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
+| **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
+| **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
+| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
+| **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
+| **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
+| **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
+| **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |
+| **[Graph Rewriting for Graph Neural Networks](https://arxiv.org/pdf/2305.18632v1)** | 2023-05-31 | <details><summary>Origi...</summary><p>Originally submitted to ICGT 2023, part of STAF Conferences</p></details> |
 
