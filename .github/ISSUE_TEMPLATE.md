@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](https://arxiv.org/abs/2512.10931v1)** | 2025-12-11 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v1)** | 2025-12-11 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables</p></details> |
+| **[LLMs Can Assist with Proposal Selection at Large User Facilities](https://arxiv.org/abs/2512.10895v1)** | 2025-12-11 | 9 pages, 8figures |
 | **[LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification](https://arxiv.org/abs/2512.10793v1)** | 2025-12-11 |  |
 | **[Script Gap: Evaluating LLM Triage on Indian Languages in Native vs Roman Scripts in a Real World Setting](https://arxiv.org/abs/2512.10780v1)** | 2025-12-11 |  |
 | **[The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data](https://arxiv.org/abs/2504.01951v2)** | 2025-12-11 |  |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Thinking While Driving: A Concurrent Framework for Real-Time, LLM-Based Adaptive Routing](https://arxiv.org/abs/2512.10610v1)** | 2025-12-11 |  |
 | **[LLM-Auction: Generative Auction towards LLM-Native Advertising](https://arxiv.org/abs/2512.10551v1)** | 2025-12-11 |  |
 | **[XDoGE: Multilingual Data Reweighting to Enhance Language Inclusivity in LLMs](https://arxiv.org/abs/2512.10545v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted and presented at the LLMs4All workshop at the IEEE BigData 2025 Conference, Macau - December 8-11, 2025</p></details> |
-| **[Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation](https://arxiv.org/abs/2512.10501v1)** | 2025-12-11 |  |
-| **[Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild](https://arxiv.org/abs/2512.10493v1)** | 2025-12-11 |  |
-| **[LLM-Assisted AHP for Explainable Cyber Range Evaluation](https://arxiv.org/abs/2512.10487v1)** | 2025-12-11 |  |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v1)** | 2025-12-11 |  |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
