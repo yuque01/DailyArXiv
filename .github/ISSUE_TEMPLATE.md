@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 09, 2026
+title: Latest 15 Papers - January 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer](https://arxiv.org/abs/2601.05250v1)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 11 tables; project page: https://4dqv.mpi-inf.mpg.de/QNeRF/</p></details> |
 | **[A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering](https://arxiv.org/abs/2601.05143v1)** | 2026-01-08 | <details><summary>Prepr...</summary><p>Preprint, manuscript is under review</p></details> |
 | **[Multi-Modal AI for Remote Patient Monitoring in Cancer Care](https://arxiv.org/abs/2512.00949v2)** | 2026-01-08 |  |
 | **[Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?](https://arxiv.org/abs/2412.08973v3)** | 2026-01-08 | 22 pages, 10 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v2)** | 2026-01-07 | 37 pages, 13 figures |
 | **[PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782v1)** | 2026-01-07 |  |
 | **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v2)** | 2026-01-07 | 12 pages, 12 figures |
-| **[BiListing: Modality Alignment for Listings](https://arxiv.org/abs/2508.20396v2)** | 2026-01-06 |  |
 
 ## Graph Transformers
 | **Title** | **Date** | **Comment** |
@@ -90,7 +90,7 @@ labels: documentation
 | **[Parallelizing Node-Level Explainability in Graph Neural Networks](https://arxiv.org/abs/2601.04807v1)** | 2026-01-08 |  |
 | **[MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration](https://arxiv.org/abs/2601.04801v1)** | 2026-01-08 |  |
 | **[GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks](https://arxiv.org/abs/2402.12937v2)** | 2026-01-08 |  |
-| **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 |  |
+| **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 | IEEE Access 2025 |
 | **[A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks](https://arxiv.org/abs/2601.04705v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in SMF 2026. 8 pages, 3 figures</p></details> |
 | **[A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models](https://arxiv.org/abs/2601.04696v1)** | 2026-01-08 |  |
 | **[Enhancing Graph Representations with Neighborhood-Contextualized Message-Passing](https://arxiv.org/abs/2511.11046v2)** | 2026-01-08 |  |
