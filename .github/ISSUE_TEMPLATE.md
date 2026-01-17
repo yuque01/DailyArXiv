@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](https://arxiv.org/abs/2601.10700v1)** | 2026-01-15 |  |
 | **[BASIL: Bayesian Assessment of Sycophancy in LLMs](https://arxiv.org/abs/2508.16846v3)** | 2026-01-15 |  |
 | **[Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs](https://arxiv.org/abs/2601.10645v1)** | 2026-01-15 |  |
 | **[Can LLMs Understand What We Cannot Say? Measuring Multilevel Alignment Through Abortion Stigma Across Cognitive, Interpersonal, and Structural Levels](https://arxiv.org/abs/2512.13142v4)** | 2026-01-15 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM](https://arxiv.org/abs/2508.01351v2)** | 2026-01-15 |  |
 | **[Robust and Efficient Zeroth-Order LLM Fine-Tuning via Adaptive Bayesian Subspace Optimizer](https://arxiv.org/abs/2601.01452v3)** | 2026-01-15 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 5 tables</p></details> |
 | **[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](https://arxiv.org/abs/2601.10332v1)** | 2026-01-15 |  |
-| **[An Efficient Long-Context Ranking Architecture With Calibrated LLM Distillation: Application to Person-Job Fit](https://arxiv.org/abs/2601.10321v1)** | 2026-01-15 |  |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
