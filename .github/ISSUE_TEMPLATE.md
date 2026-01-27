@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Recommendation System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction](https://arxiv.org/abs/2601.17836v1)** | 2026-01-25 |  |
+| **[Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders](https://arxiv.org/abs/2510.10978v3)** | 2026-01-25 | Accepted by WWW2026 |
+| **[Token-Weighted Multi-Target Learning for Generative Recommenders with Curriculum Learning](https://arxiv.org/abs/2601.17787v1)** | 2026-01-25 | 11 pages, 5 figures |
+| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
+| **[Towards Fair Large Language Model-based Recommender Systems without Costly Retraining](https://arxiv.org/abs/2601.17492v1)** | 2026-01-24 | Accepted by WWW 2026 |
+| **[Evaluating Conversational Recommender Systems via Large Language Models: A User-Centric Framework](https://arxiv.org/abs/2501.09493v4)** | 2026-01-24 |  |
+| **[Evaluation on Entity Matching in Recommender Systems](https://arxiv.org/abs/2601.17218v1)** | 2026-01-23 |  |
 | **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
 | **[Explaining Group Recommendations via Counterfactuals](https://arxiv.org/abs/2601.16882v1)** | 2026-01-23 |  |
 | **[From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling](https://arxiv.org/abs/2601.16872v1)** | 2026-01-23 |  |
@@ -15,36 +22,30 @@ labels: documentation
 | **[LLM-powered Real-time Patent Citation Recommendation for Financial Technologies](https://arxiv.org/abs/2601.16775v1)** | 2026-01-23 |  |
 | **[SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation](https://arxiv.org/abs/2510.21352v2)** | 2026-01-23 | <details><summary>Proce...</summary><p>Proceedings of the 48th European Conference on Information Retrieval (ECIR '26), 2026</p></details> |
 | **[Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model](https://arxiv.org/abs/2502.08309v2)** | 2026-01-23 | <details><summary>WSDM ...</summary><p>WSDM 2026, 10 pages; The first three authors contributed equally to this work</p></details> |
-| **[REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale Recommendation Systems](https://arxiv.org/abs/2508.15308v3)** | 2026-01-23 |  |
-| **[SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation](https://arxiv.org/abs/2511.19514v4)** | 2026-01-23 |  |
-| **[The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes](https://arxiv.org/abs/2601.16356v1)** | 2026-01-22 |  |
-| **[Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction Theory](https://arxiv.org/abs/2601.15975v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted in TheWebConf 2026</p></details> |
-| **[MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/abs/2601.15930v1)** | 2026-01-22 | <details><summary>https...</summary><p>https://github.com/Joinn99/MMGRid</p></details> |
-| **[Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders](https://arxiv.org/abs/2510.10978v2)** | 2026-01-22 | Accepted by WWW2026 |
-| **[Cohesive Group Discovery in Interaction Graphs under Explicit Density Constraints](https://arxiv.org/abs/2508.04174v3)** | 2026-01-22 | 10 pages, 6 figures |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Convexified Message-Passing Graph Neural Networks](https://arxiv.org/abs/2505.18289v2)** | 2026-01-25 | <details><summary>To Ap...</summary><p>To Appear in 29th Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026</p></details> |
+| **[UniPACT: A Multimodal Framework for Prognostic Question Answering on Raw ECG and Structured EHR](https://arxiv.org/abs/2601.17916v1)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted to IEEE ICASSP 2026</p></details> |
+| **[Multimodal Trajectory Representation Learning for Travel Time Estimation](https://arxiv.org/abs/2510.05840v2)** | 2026-01-25 |  |
+| **[PVLM: Parsing-Aware Vision Language Model with Dynamic Contrastive Learning for Zero-Shot Deepfake Attribution](https://arxiv.org/abs/2504.14129v3)** | 2026-01-25 |  |
+| **[NeuroKoop: Neural Koopman Fusion of Structural-Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents](https://arxiv.org/abs/2508.16414v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE Xplore. DOI: 10.1109/BHI67747.2025.11269557</p></details> |
+| **[PEARL: Prototype-Enhanced Alignment for Label-Efficient Representation Learning with Deployment-Driven Insights from Digital Governance Communication Systems](https://arxiv.org/abs/2601.17495v1)** | 2026-01-24 | 15 pages, 1 figure |
+| **[MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://arxiv.org/abs/2508.15304v2)** | 2026-01-24 |  |
+| **[Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning](https://arxiv.org/abs/2601.17454v1)** | 2026-01-24 |  |
+| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
+| **[Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning](https://arxiv.org/abs/2505.19442v4)** | 2026-01-24 |  |
+| **[GO-OSC and VASH: Geometry-Aware Representation Learning for Early Degradation Detection in Oscillatory Systems](https://arxiv.org/abs/2601.17396v1)** | 2026-01-24 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Includes theoretical analysis, ablation studies, and experiments on synthetic and real vibration datasets. Code available</p></details> |
+| **[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition](https://arxiv.org/abs/2601.17391v1)** | 2026-01-24 |  |
 | **[Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation](https://arxiv.org/abs/2506.11777v3)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[SONAR: Self-Distilled Continual Pre-training for Domain Adaptive Audio Representation](https://arxiv.org/abs/2509.15703v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[Combating Spurious Correlations in Graph Interpretability via Self-Reflection](https://arxiv.org/abs/2601.11021v2)** | 2026-01-23 |  |
-| **[VOCAL: Visual Odometry via ContrAstive Learning](https://arxiv.org/abs/2507.00243v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
-| **[Training-Free Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data](https://arxiv.org/abs/2507.02921v3)** | 2026-01-22 |  |
-| **[Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints](https://arxiv.org/abs/2601.16174v1)** | 2026-01-22 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 propositions</p></details> |
-| **[HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval](https://arxiv.org/abs/2601.16155v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[FREYJA: Efficient Join Discovery in Data Lakes](https://arxiv.org/abs/2412.06637v2)** | 2026-01-22 | <details><summary>The m...</summary><p>The manuscript was originally accepted for publication in the TKDE journal in January 2026. Since then, we have developed a Python version and further improved its efficiency. Consequently, the tables and plots in Section VI have been updated with the new results</p></details> |
-| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v2)** | 2026-01-22 |  |
-| **[Boosting Generative Image Modeling via Joint Image-Feature Synthesis](https://arxiv.org/abs/2504.16064v3)** | 2026-01-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
-| **[Consistency-Regularized GAN for Few-Shot SAR Target Recognition](https://arxiv.org/abs/2601.15681v1)** | 2026-01-22 |  |
-| **[Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype Alignment for Federated Medical Segmentation](https://arxiv.org/abs/2511.10945v2)** | 2026-01-22 | Accepted at AAAI-26 |
-| **[Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/abs/2601.15475v1)** | 2026-01-21 |  |
-| **[PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models](https://arxiv.org/abs/2505.05577v2)** | 2026-01-21 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada. PMLR 267, 2025</p></details> |
-| **[Cluster-Based Generalized Additive Models Informed by Random Fourier Features](https://arxiv.org/abs/2512.19373v2)** | 2026-01-21 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 8 tables</p></details> |
 
 ## Graph Transformers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How to Make LMs Strong Node Classifiers?](https://arxiv.org/abs/2410.02296v3)** | 2026-01-23 |  |
 | **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](https://arxiv.org/abs/2411.12150v4)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions of Automation Science and Engineering (T-ASE)</p></details> |
 | **[Soft Graph Transformer for MIMO Detection](https://arxiv.org/abs/2509.12694v4)** | 2026-01-23 | <details><summary>5 pag...</summary><p>5 pages with 3 figures and 2 tables, submitted to IEEE for a possible publication</p></details> |
 | **[One Router to Route Them All: Homogeneous Expert Routing for Heterogeneous Graph Transformers](https://arxiv.org/abs/2511.07603v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has been withdrawn by the authors due to significant revisions in preparation for conference submission. A substantially updated version will be submitted separately</p></details> |
@@ -59,43 +60,42 @@ labels: documentation
 | **[Database Views as Explanations for Relational Deep Learning](https://arxiv.org/abs/2509.09482v2)** | 2026-01-09 |  |
 | **[Topology-Informed Graph Transformer](https://arxiv.org/abs/2402.02005v3)** | 2026-01-08 | <details><summary>Proce...</summary><p>Proceedings of the Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM) at ICML 2024</p></details> |
 | **[Implementing Binary Search Trees in GP 2 (Extended Abstract)](https://arxiv.org/abs/2601.03897v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings GCM 2025, arXiv:2601.03249</p></details> |
-| **[Proceedings 16th International Workshop on Graph Computation Models](https://arxiv.org/abs/2601.03249v1)** | 2026-01-06 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
-| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
-| **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](https://arxiv.org/abs/2601.16964v1)** | 2026-01-23 | 16 pages |
-| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
-| **[ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs](https://arxiv.org/abs/2410.17406v3)** | 2026-01-23 |  |
-| **[LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems](https://arxiv.org/abs/2601.16890v1)** | 2026-01-23 |  |
-| **[SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation](https://arxiv.org/abs/2508.00570v2)** | 2026-01-23 |  |
-| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v4)** | 2026-01-23 |  |
-| **[Persuasion Tokens for Editing Factual Knowledge in LLMs](https://arxiv.org/abs/2601.16781v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at EACL Main 2026</p></details> |
-| **[LLM-powered Real-time Patent Citation Recommendation for Financial Technologies](https://arxiv.org/abs/2601.16775v1)** | 2026-01-23 |  |
-| **[Do LLM hallucination detectors suffer from low-resource effect?](https://arxiv.org/abs/2601.16766v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Main)</p></details> |
-| **[Topic-Specific Classifiers are Better Relevance Judges than Prompted LLMs](https://arxiv.org/abs/2510.04633v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 4 tables</p></details> |
-| **[LATTLE: LLM Attention Transplant for Transfer Learning of Tabular Data Across Disparate Domains](https://arxiv.org/abs/2511.06161v2)** | 2026-01-23 |  |
-| **[Better Generalizing to Unseen Concepts: An Evaluation Framework and An LLM-Based Auto-Labeled Pipeline for Biomedical Concept Recognition](https://arxiv.org/abs/2601.16711v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 (Main)</p></details> |
-| **[Supporting Stakeholder Requirements Expression with LLM Revisions: An Empirical Evaluation](https://arxiv.org/abs/2601.16699v1)** | 2026-01-23 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[LLM-Based SQL Generation: Prompting, Self-Refinement, and Adaptive Weighted Majority Voting](https://arxiv.org/abs/2601.17942v1)** | 2026-01-25 | 29 pages, 22 figures |
+| **[Mind the Gap: Benchmarking LLM Uncertainty and Calibration with Specialty-Aware Clinical QA and Reasoning-Based Behavioural Features](https://arxiv.org/abs/2506.10769v3)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Main Conference)</p></details> |
+| **[Think Locally, Explain Globally: Graph-Guided LLM Investigations via Local Reasoning and Belief Propagation](https://arxiv.org/abs/2601.17915v1)** | 2026-01-25 |  |
+| **[LLM for Large-Scale Optimization Model Auto-Formulation: Bridging Flexibility and Standardization via Agentic Workflow](https://arxiv.org/abs/2601.09635v2)** | 2026-01-25 | <details><summary>Updat...</summary><p>Updated version of https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027</p></details> |
+| **[dLLM-ASR: A Faster Diffusion LLM-based Framework for Speech Recognition](https://arxiv.org/abs/2601.17902v1)** | 2026-01-25 |  |
+| **[Argument-Based Consistency in Toxicity Explanations of LLMs](https://arxiv.org/abs/2506.19113v3)** | 2026-01-25 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 9 tables</p></details> |
+| **[UniCog: Uncovering Cognitive Abilities of LLMs through Latent Mind Space Analysis](https://arxiv.org/abs/2601.17897v1)** | 2026-01-25 |  |
+| **[TruthTensor: Evaluating LLMs through Human Imitation on Prediction Market under Drift and Holistic Reasoning](https://arxiv.org/abs/2601.13545v3)** | 2026-01-25 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 2 tables</p></details> |
+| **[Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders](https://arxiv.org/abs/2510.10978v3)** | 2026-01-25 | Accepted by WWW2026 |
+| **[InteLiPlan: An Interactive Lightweight LLM-Based Planner for Domestic Robot Autonomy](https://arxiv.org/abs/2409.14506v4)** | 2026-01-25 |  |
+| **[Multi-Agent Collaborative Intrusion Detection for Low-Altitude Economy IoT: An LLM-Enhanced Agentic AI Framework](https://arxiv.org/abs/2601.17817v1)** | 2026-01-25 |  |
+| **[MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing](https://arxiv.org/abs/2601.17814v1)** | 2026-01-25 |  |
+| **[Empowering LLMs for Structure-Based Drug Design via Exploration-Augmented Latent Inference](https://arxiv.org/abs/2601.15333v2)** | 2026-01-25 |  |
+| **[Neuro-Symbolic Verification on Instruction Following of LLMs](https://arxiv.org/abs/2601.17789v1)** | 2026-01-25 |  |
+| **[DesignerlyLoop: Forming Design Intent through Curated Reasoning for Human-LLM Alignment](https://arxiv.org/abs/2511.15331v2)** | 2026-01-25 |  |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks](https://arxiv.org/abs/2601.12662v2)** | 2026-01-25 |  |
+| **[FedGraph-VASP: Privacy-Preserving Federated Graph Learning with Post-Quantum Security for Cross-Institutional Anti-Money Laundering](https://arxiv.org/abs/2601.17935v1)** | 2026-01-25 |  |
+| **[Convexified Message-Passing Graph Neural Networks](https://arxiv.org/abs/2505.18289v2)** | 2026-01-25 | <details><summary>To Ap...</summary><p>To Appear in 29th Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026</p></details> |
+| **[Kolmogorov-Arnold graph neural networks for chemically informed prediction tasks on inorganic nanomaterials](https://arxiv.org/abs/2512.19494v2)** | 2026-01-25 |  |
+| **[CondenseGraph: Communication-Efficient Distributed GNN Training via On-the-Fly Graph Condensation](https://arxiv.org/abs/2601.17774v1)** | 2026-01-25 |  |
+| **[ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs](https://arxiv.org/abs/2512.14908v3)** | 2026-01-25 | Preprint |
+| **[Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling](https://arxiv.org/abs/2505.15135v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in: Predictive Intelligence in Medicine (PRIME 2024), Lecture Notes in Computer Science, vol. 15155. Springer, Cham. DOI: 10.1007/978-3-031-74561-4_6</p></details> |
+| **[NeuroKoop: Neural Koopman Fusion of Structural-Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents](https://arxiv.org/abs/2508.16414v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE Xplore. DOI: 10.1109/BHI67747.2025.11269557</p></details> |
+| **[Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis](https://arxiv.org/abs/2505.15139v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025). IEEE Xplore. DOI: 10.1109/EMBC58623.2025.11254194</p></details> |
+| **[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](https://arxiv.org/abs/2601.17469v1)** | 2026-01-24 |  |
+| **[DREAM: Dual-Standard Semantic Homogeneity with Dynamic Optimization for Graph Learning with Label Noise](https://arxiv.org/abs/2601.17449v1)** | 2026-01-24 |  |
+| **[How to Make LMs Strong Node Classifiers?](https://arxiv.org/abs/2410.02296v3)** | 2026-01-23 |  |
+| **[How does Graph Structure Modulate Membership-Inference Risk for Graph Neural Networks?](https://arxiv.org/abs/2601.17130v1)** | 2026-01-23 |  |
 | **[Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization](https://arxiv.org/abs/2506.13911v2)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025, 28 pages, 5 figures</p></details> |
 | **[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/abs/2601.16622v1)** | 2026-01-23 |  |
-| **[BoostFGL: Boosting Fairness in Federated Graph Learning](https://arxiv.org/abs/2601.16496v1)** | 2026-01-23 |  |
-| **[Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures](https://arxiv.org/abs/2601.16348v1)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint, submitted for review</p></details> |
-| **[Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data](https://arxiv.org/abs/2601.15977v1)** | 2026-01-22 |  |
-| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v4)** | 2026-01-22 | 28 pages |
-| **[Communication-efficient Federated Graph Classification via Generative Diffusion Modeling](https://arxiv.org/abs/2601.15722v1)** | 2026-01-22 |  |
-| **[Efficient Code Analysis via Graph-Guided Large Language Models](https://arxiv.org/abs/2601.12890v2)** | 2026-01-22 |  |
-| **[Report for NSF Workshop on AI for Electronic Design Automation](https://arxiv.org/abs/2601.14541v2)** | 2026-01-22 |  |
-| **[Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v1)** | 2026-01-21 |  |
-| **[One Router to Route Them All: Homogeneous Expert Routing for Heterogeneous Graph Transformers](https://arxiv.org/abs/2511.07603v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has been withdrawn by the authors due to significant revisions in preparation for conference submission. A substantially updated version will be submitted separately</p></details> |
-| **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
-| **[LoRAP: Low-Rank Aggregation Prompting for Quantized Graph Neural Networks Training](https://arxiv.org/abs/2601.15079v1)** | 2026-01-21 |  |
-| **[Federated Transformer-GNN for Privacy-Preserving Brain Tumor Localization with Modality-Level Explainability](https://arxiv.org/abs/2601.15042v1)** | 2026-01-21 |  |
-| **[ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data](https://arxiv.org/abs/2601.15025v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in KI - Künstliche Intelligenz, and is available online at https://doi.org/10.1007/s13218-026-00901-7</p></details> |
 
