@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,45 @@ labels: documentation
 ## Recommendation System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning](https://arxiv.org/abs/2603.11901v1)** | 2026-03-12 |  |
+| **[SRSUPM: Sequential Recommender System Based on User Psychological Motivation](https://arxiv.org/abs/2602.08667v2)** | 2026-03-12 | 9 pages, 8 pages |
+| **[Enhancing Music Recommendation with User Mood Input](https://arxiv.org/abs/2603.11796v1)** | 2026-03-12 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 tables</p></details> |
+| **[Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation](https://arxiv.org/abs/2512.21066v3)** | 2026-03-12 |  |
+| **[Understanding Wikidata Qualifiers: An Analysis and Taxonomy](https://arxiv.org/abs/2603.11767v1)** | 2026-03-12 |  |
+| **[Federated Learning and Unlearning for Recommendation with Personalized Data Sharing](https://arxiv.org/abs/2603.11610v1)** | 2026-03-12 | 14 pages |
+| **[OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation](https://arxiv.org/abs/2603.02999v3)** | 2026-03-12 |  |
+| **[Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation](https://arxiv.org/abs/2603.11503v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by the ACM Web Conference 2026</p></details> |
+| **[Quantized Inference for OneRec-V2](https://arxiv.org/abs/2603.11486v1)** | 2026-03-12 |  |
+| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v4)** | 2026-03-12 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
+| **[Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems](https://arxiv.org/abs/2603.11399v1)** | 2026-03-12 | <details><summary>In pr...</summary><p>In proceeding to 2026 Association for the Advancement of Artificial Intelligence Spring Symposia</p></details> |
+| **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)** | 2026-03-11 |  |
 | **[LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce](https://arxiv.org/abs/2603.11025v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the Conference on Digital Economy and Fintech Innovation (DEFI 2025). To appear in IEEE Xplore</p></details> |
 | **[Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation](https://arxiv.org/abs/2603.10673v1)** | 2026-03-11 |  |
 | **[Taming the Long Tail: Denoising Collaborative Information for Robust Semantic ID Generation](https://arxiv.org/abs/2510.25622v3)** | 2026-03-11 |  |
-| **[Recommender systems, representativeness, and online music: a psychosocial analysis of Italian listeners](https://arxiv.org/abs/2507.18169v2)** | 2026-03-11 |  |
-| **[Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems](https://arxiv.org/abs/2603.10369v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to KDD 2026</p></details> |
-| **[GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification](https://arxiv.org/abs/2603.10298v1)** | 2026-03-11 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 11 tables, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop</p></details> |
-| **[Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF](https://arxiv.org/abs/2603.10279v1)** | 2026-03-10 |  |
-| **[HYGENE: A Diffusion-based Hypergraph Generation Method](https://arxiv.org/abs/2408.16457v4)** | 2026-03-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2312.11529 by other authors</p></details> |
-| **[Robust Assortment Optimization from Observational Data](https://arxiv.org/abs/2602.10696v2)** | 2026-03-10 | 65 pages, 9 figures |
-| **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v1)** | 2026-03-09 |  |
-| **[ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems](https://arxiv.org/abs/2603.08341v1)** | 2026-03-09 |  |
-| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v3)** | 2026-03-09 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
-| **[Continual Low-Rank Adapters for LLM-based Generative Recommender Systems](https://arxiv.org/abs/2510.25093v2)** | 2026-03-08 |  |
-| **[Deep Research for Recommender Systems](https://arxiv.org/abs/2603.07605v1)** | 2026-03-08 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 5 tables</p></details> |
-| **[MUSS: Multilevel Subset Selection for Relevance and Diversity](https://arxiv.org/abs/2503.11126v3)** | 2026-03-08 | <details><summary>model...</summary><p>model in production at Amazon</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pointy - A Lightweight Transformer for Point Cloud Foundation Models](https://arxiv.org/abs/2603.10963v1)** | 2026-03-11 | <details><summary>To ap...</summary><p>To appear in the proceedings of ACIVS 2025. An earlier version was presented at the SCI-FM workshop at ICLR 2025</p></details> |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[Inferring Clinically Relevant Molecular Subtypes of Pancreatic Cancer from Routine Histopathology Using Deep Learning](https://arxiv.org/abs/2601.03410v2)** | 2026-03-11 |  |
-| **[X-WIN: Building Chest Radiograph World Model via Predictive Sensing](https://arxiv.org/abs/2511.14918v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering](https://arxiv.org/abs/2603.09689v2)** | 2026-03-11 |  |
-| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v1)** | 2026-03-11 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
-| **[Scaling Multilingual Semantic Search in Uber Eats Delivery](https://arxiv.org/abs/2603.06586v3)** | 2026-03-11 | <details><summary>15 pa...</summary><p>15 pages, 11 tables, 1 figure. Planned for submission to SIGIR or KDD 2026</p></details> |
-| **[SDGraph: Multi-Level Sketch Representation Learning by Sparse-Dense Graph Architecture](https://arxiv.org/abs/2510.12192v2)** | 2026-03-11 |  |
-| **[SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval](https://arxiv.org/abs/2603.08224v2)** | 2026-03-11 | Accepted to CVPR2026 |
-| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
-| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v1)** | 2026-03-11 | 22 pages, 5 figures |
-| **[Joint Imaging-ROI Representation Learning via Cross-View Contrastive Alignment for Brain Disorder Classification](https://arxiv.org/abs/2603.10253v1)** | 2026-03-10 |  |
-| **[DT-BEHRT: Disease Trajectory-aware Transformer for Interpretable Patient Representation Learning](https://arxiv.org/abs/2603.10180v1)** | 2026-03-10 |  |
-| **[The Prediction-Measurement Gap: Toward Meaning Representations as Scientific Instruments](https://arxiv.org/abs/2603.10130v1)** | 2026-03-10 |  |
+| **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/abs/2603.12265v1)** | 2026-03-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/omnistream/</p></details> |
+| **[Temporal Straightening for Latent Planning](https://arxiv.org/abs/2603.12231v1)** | 2026-03-12 |  |
+| **[Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity](https://arxiv.org/abs/2603.03190v2)** | 2026-03-12 | 47 pages, 12 figures |
+| **[Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation](https://arxiv.org/abs/2311.11321v4)** | 2026-03-12 |  |
+| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
+| **[Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling](https://arxiv.org/abs/2603.11971v1)** | 2026-03-12 | 7 pages |
+| **[Statistical and structural identifiability in representation learning](https://arxiv.org/abs/2603.11970v1)** | 2026-03-12 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2026</p></details> |
+| **[Causal Representation Learning with Optimal Compression under Complex Treatments](https://arxiv.org/abs/2603.11907v1)** | 2026-03-12 |  |
+| **[Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data](https://arxiv.org/abs/2603.11858v1)** | 2026-03-12 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 7 tables</p></details> |
+| **[Disentangled Representation Learning through Unsupervised Symmetry Group Discovery](https://arxiv.org/abs/2603.11790v1)** | 2026-03-12 |  |
+| **[IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis](https://arxiv.org/abs/2603.11644v1)** | 2026-03-12 |  |
+| **[Personalized Federated Learning via Gaussian Generative Modeling](https://arxiv.org/abs/2603.11620v1)** | 2026-03-12 |  |
+| **[CAETC: Causal Autoencoding and Treatment Conditioning for Counterfactual Estimation over Time](https://arxiv.org/abs/2603.11565v1)** | 2026-03-12 |  |
+| **[CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement](https://arxiv.org/abs/2603.11526v1)** | 2026-03-12 |  |
+| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v2)** | 2026-03-12 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
 
 ## Graph Transformers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Tokenization for Bridging Graphs and Transformers](https://arxiv.org/abs/2603.11099v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted as a poster at ICLR 2026. Code is available at https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers</p></details> |
 | **[DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering](https://arxiv.org/abs/2603.09152v1)** | 2026-03-10 | <details><summary>Publi...</summary><p>Published in Information Processing & Management, 2026</p></details> |
 | **[Scalable Message Passing Neural Networks: No Need for Attention in Large Graph Representation Learning](https://arxiv.org/abs/2411.00835v2)** | 2026-03-09 |  |
 | **[Are Expressive Encoders Necessary for Discrete Graph Generation?](https://arxiv.org/abs/2603.08825v1)** | 2026-03-09 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 10 tables</p></details> |
@@ -59,43 +60,42 @@ labels: documentation
 | **[Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer's Network](https://arxiv.org/abs/2603.02273v1)** | 2026-03-01 |  |
 | **[GraphUniverse: Synthetic Graph Generation for Evaluating Inductive Generalization](https://arxiv.org/abs/2509.21097v2)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2026</p></details> |
 | **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v2)** | 2026-02-27 |  |
-| **[Using weakest application conditions to rank graph transformations for graph repair](https://arxiv.org/abs/2405.08788v6)** | 2026-02-26 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge](https://arxiv.org/abs/2603.11027v1)** | 2026-03-11 |  |
-| **[LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce](https://arxiv.org/abs/2603.11025v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the Conference on Digital Economy and Fintech Innovation (DEFI 2025). To appear in IEEE Xplore</p></details> |
-| **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v1)** | 2026-03-11 |  |
-| **[Task-Aware Delegation Cues for LLM Agents](https://arxiv.org/abs/2603.11011v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepeted by CHI'26 Workshop on Developing Standards and Documentation For LLM Use as Simulated Research Participants</p></details> |
-| **[A Systematic Study of Pseudo-Relevance Feedback with LLMs](https://arxiv.org/abs/2603.11008v1)** | 2026-03-11 |  |
-| **[Ranking Reasoning LLMs under Test-Time Scaling](https://arxiv.org/abs/2603.10960v1)** | 2026-03-11 | <details><summary>Code ...</summary><p>Code is available at https://github.com/mohsenhariri/scorio</p></details> |
-| **[Online LLM watermark detection via e-processes](https://arxiv.org/abs/2602.14286v2)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[EoRA: Fine-tuning-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation](https://arxiv.org/abs/2410.21271v5)** | 2026-03-11 | <details><summary>ICLR ...</summary><p>ICLR 2026 workshops. Code: https://github.com/NVlabs/EoRA</p></details> |
-| **[PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration](https://arxiv.org/abs/2603.08935v2)** | 2026-03-11 |  |
-| **[KV Cache Transform Coding for Compact Storage in LLM Inference](https://arxiv.org/abs/2511.01815v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS](https://arxiv.org/abs/2603.10904v1)** | 2026-03-11 | <details><summary>We fi...</summary><p>We finetune the Qwen 0.5B backbone in an LLM TTS with LoRA to raise MOS speaker similarity and SNR. It works best with diverse training audio with uniform data it can amplify noise so tune decoding and use GGUF quantization for low latency stable quality</p></details> |
-| **[Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors](https://arxiv.org/abs/2510.08907v4)** | 2026-03-11 | 23 pages,10 figures |
-| **[Burn-After-Use for Preventing Data Leakage through a Secure Multi-Tenant Architecture in Enterprise LLM](https://arxiv.org/abs/2601.06627v3)** | 2026-03-11 | 16 pages, 5 figures |
-| **[Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation](https://arxiv.org/abs/2603.10827v1)** | 2026-03-11 | <details><summary>3 Tab...</summary><p>3 Tables, 1 Figure, Under review</p></details> |
+| **[Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246v1)** | 2026-03-12 |  |
+| **[IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](https://arxiv.org/abs/2603.12151v1)** | 2026-03-12 | <details><summary>29 pa...</summary><p>29 pages, 27 figures. Under review</p></details> |
+| **[TopoBench: Benchmarking LLMs on Hard Topological Reasoning](https://arxiv.org/abs/2603.12133v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted, Workshop on Logical Reasoning of Large Language Models at ICLR 2026</p></details> |
+| **[Prompting Underestimates LLM Capability for Time Series Classification](https://arxiv.org/abs/2601.03464v2)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages + Appendix and References, 9 figures</p></details> |
+| **[On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents](https://arxiv.org/abs/2603.12109v1)** | 2026-03-12 |  |
+| **[Human-Centred LLM Privacy Audits: Findings and Frictions](https://arxiv.org/abs/2603.12094v1)** | 2026-03-12 |  |
+| **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
+| **[Can RL Improve Generalization of LLM Agents? An Empirical Study](https://arxiv.org/abs/2603.12011v1)** | 2026-03-12 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs](https://arxiv.org/abs/2603.11991v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 31 pages, 5 figures, 9 tables. Code: https://github.com/IliasAarab/btzsc ; Dataset: https://huggingface.co/datasets/btzsc/btzsc ; Leaderboard: https://huggingface.co/spaces/btzsc/btzsc-leaderboard . Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), 2026</p></details> |
+| **[RECAP: Reproducing Copyrighted Data from LLMs Training with an Agentic Pipeline](https://arxiv.org/abs/2510.25941v2)** | 2026-03-12 |  |
+| **[PersonaTrace: Synthesizing Realistic Digital Footprints with LLM Agents](https://arxiv.org/abs/2603.11955v1)** | 2026-03-12 | <details><summary>EACL ...</summary><p>EACL 2026 Industry Track</p></details> |
+| **[MobileKernelBench: Can LLMs Write Efficient Kernels for Mobile Devices?](https://arxiv.org/abs/2603.11935v1)** | 2026-03-12 |  |
+| **[CoMMET: To What Extent Can LLMs Perform Theory of Mind Tasks?](https://arxiv.org/abs/2603.11915v1)** | 2026-03-12 |  |
+| **[Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks](https://arxiv.org/abs/2603.11914v1)** | 2026-03-12 | 21 pages, 11 figures |
+| **[FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning](https://arxiv.org/abs/2603.11901v1)** | 2026-03-12 |  |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
+| **[Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing](https://arxiv.org/abs/2603.11944v1)** | 2026-03-12 |  |
+| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards](https://arxiv.org/abs/2408.06503v4)** | 2026-03-12 | <details><summary>Full ...</summary><p>Full paper version for AAMAS 2025 (https://ifaamas.org/Proceedings/aamas2025/pdfs/p2681.pdf), 9 pages, 5 figures</p></details> |
 | **[Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks](https://arxiv.org/abs/2603.10983v1)** | 2026-03-11 | <details><summary>2 pag...</summary><p>2 pages with 2 figures and 1 table. Accepted in 2026 International Applied Computational Electromagnetics Society (ACES) Symposium</p></details> |
 | **[Resource Allocation in Hybrid Radio-Optical IoT Networks using GNN with Multi-task Learning](https://arxiv.org/abs/2511.07428v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted for publications in IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) 20 pages, 17 figures, 3 tables</p></details> |
 | **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v5)** | 2026-03-11 | 7 pages, 4 figures |
 | **[Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks](https://arxiv.org/abs/2603.10802v1)** | 2026-03-11 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Submitted to IEEE Transactions on Machine Learning in Communications and Networking</p></details> |
 | **[Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems](https://arxiv.org/abs/2602.18419v2)** | 2026-03-11 |  |
 | **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v1)** | 2026-03-11 | 33 pages, 7 figures |
+| **[Graph Tokenization for Bridging Graphs and Transformers](https://arxiv.org/abs/2603.11099v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted as a poster at ICLR 2026. Code is available at https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers</p></details> |
 | **[SCORE: Replacing Layer Stacking with Contractive Recurrent Depth](https://arxiv.org/abs/2603.10544v1)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages, 21 figures, 12 tableaux</p></details> |
 | **[GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification](https://arxiv.org/abs/2603.10298v1)** | 2026-03-11 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 11 tables, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop</p></details> |
 | **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v1)** | 2026-03-10 |  |
 | **[Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction](https://arxiv.org/abs/2603.10198v1)** | 2026-03-10 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, submitted for IROS 2026</p></details> |
-| **[GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation](https://arxiv.org/abs/2603.09675v1)** | 2026-03-10 |  |
-| **[Provable Filter for Real-world Graph Clustering](https://arxiv.org/abs/2403.03666v2)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, accepted by IEEE Cybernetics</p></details> |
-| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](https://arxiv.org/abs/2501.17901v3)** | 2026-03-10 |  |
-| **[Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates](https://arxiv.org/abs/2511.08317v2)** | 2026-03-10 |  |
-| **[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418v1)** | 2026-03-10 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026</p></details> |
 
