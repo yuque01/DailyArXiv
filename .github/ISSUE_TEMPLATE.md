@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yuque01/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Recommendation System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual-Stream MLP is All You Need for CTR Prediction](https://arxiv.org/abs/2606.04944v1)** | 2026-06-03 | Accepted by TKDD |
+| **[Distributional Approximate Nearest Neighbour Search for Uncertainty-Aware Retrieval](https://arxiv.org/abs/2606.04603v1)** | 2026-06-03 |  |
+| **[Trading Engagement for Sustainability: Carbon-Aware Re-ranking for E-commerce Recommendations](https://arxiv.org/abs/2606.04550v1)** | 2026-06-03 | <details><summary>23 pa...</summary><p>23 pages, 30 figures. Code available at https://github.com/andersvestrum/carbon-aware-recsys</p></details> |
+| **[Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization](https://arxiv.org/abs/2606.04547v1)** | 2026-06-03 | 16 pages, 6 figures |
+| **[Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model](https://arxiv.org/abs/2510.10127v3)** | 2026-06-03 | Accepted by KDD 2026 |
+| **[Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448v1)** | 2026-06-03 | 9 pages |
+| **[Variance Reduction for Heavy-Tailed Monetization Metrics in Ranking Experiments via Post-Stratification](https://arxiv.org/abs/2606.04110v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted as Industry Track paper in the 2026 ACM SIGIR Conference on Research and Development in Information Retrieval</p></details> |
 | **[Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation](https://arxiv.org/abs/2606.03866v1)** | 2026-06-02 | 8 pages, 2 figures |
 | **[The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit](https://arxiv.org/abs/2501.02173v2)** | 2026-06-02 |  |
 | **[Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism](https://arxiv.org/abs/2508.15030v5)** | 2026-06-02 |  |
@@ -15,36 +22,32 @@ labels: documentation
 | **[LeAP: Learnable Adaptive Permutation for Feature Selection in Heterogeneous and Sparse Recommender Systems](https://arxiv.org/abs/2606.01111v2)** | 2026-06-02 |  |
 | **[CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction](https://arxiv.org/abs/2508.03668v2)** | 2026-06-02 |  |
 | **[ACRONYM: Accelerated Approximate Nearest Neighbor Search in Memory for Dynamic Vector Databases](https://arxiv.org/abs/2606.03151v1)** | 2026-06-02 |  |
-| **[BAHSD: Bridging the Long-tail Gap via Adaptive Distillation in Black-box Sequential Recommendation](https://arxiv.org/abs/2606.03091v1)** | 2026-06-02 |  |
-| **[LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender Systems](https://arxiv.org/abs/2606.02883v1)** | 2026-06-01 | <details><summary>30 pa...</summary><p>30 pages total; 11 pages, 5 figures, 2 tables (main text); 19 pages, 11 figures, 9 tables (appendix)</p></details> |
-| **[GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](https://arxiv.org/abs/2506.16114v3)** | 2026-06-01 |  |
-| **[Randomized Least Squares Value Iteration itself is Joint Differentially Private](https://arxiv.org/abs/2606.01952v1)** | 2026-06-01 | 12 pages, 0 figures |
-| **[Rank-Constrained Deep Matrix Completion for Group Recommendation](https://arxiv.org/abs/2606.01948v1)** | 2026-06-01 |  |
-| **[Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549v2)** | 2026-06-01 |  |
-| **[Breaking the Information Silo: Semantic Personas for Cross-Domain Recommendation](https://arxiv.org/abs/2606.01783v1)** | 2026-06-01 |  |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoralBay: A Self-Supervised CT Foundation Model](https://arxiv.org/abs/2606.03888v1)** | 2026-06-02 |  |
-| **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://arxiv.org/abs/2509.22468v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression](https://arxiv.org/abs/2606.03465v1)** | 2026-06-02 |  |
-| **[CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations](https://arxiv.org/abs/2606.03435v1)** | 2026-06-02 | ICLR 2026 |
-| **[Edge-Aware and Content-Adaptive Infrared Gas Leak Detection for Industrial Safety Monitoring](https://arxiv.org/abs/2512.23234v3)** | 2026-06-02 |  |
-| **[SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching](https://arxiv.org/abs/2606.03406v1)** | 2026-06-02 | 14 pages |
-| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v1)** | 2026-06-02 | Accepted by KDD2026 |
-| **[GeoSem-WAM: Geometry- and Semantic-Aware World Action Models](https://arxiv.org/abs/2606.03188v1)** | 2026-06-02 |  |
-| **[Evidence-Aware Protein Complex Detection: Methods, Benchmarks, and Reproducibility Challenges](https://arxiv.org/abs/2606.03178v1)** | 2026-06-02 | <details><summary>Revie...</summary><p>Review article; 23 pages, 7 figures, 7 tables</p></details> |
-| **[Towards Blind Lens Aberration Correction via Large LensLib Pre-training and Discrete Degradation Priors](https://arxiv.org/abs/2511.17126v4)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Computational Photography (ICCP). The source code and datasets will be made publicly available at https://github.com/zju-jiangqi/FoundCAC</p></details> |
-| **[SRENet: Spectral Re-Entry Network for Point Cloud Action Recognition](https://arxiv.org/abs/2606.03160v1)** | 2026-06-02 | <details><summary>13 pa...</summary><p>13 pages, 11 figures. Accepted by IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
-| **[MIPIC: Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining](https://arxiv.org/abs/2604.24374v2)** | 2026-06-02 | ACL Findings |
-| **[Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning](https://arxiv.org/abs/2603.01471v3)** | 2026-06-02 |  |
-| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v2)** | 2026-06-02 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
-| **[ArrowFlow: Hierarchical Machine Learning in the Space of Permutations](https://arxiv.org/abs/2604.04087v2)** | 2026-06-01 |  |
+| **[BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning](https://arxiv.org/abs/2606.05139v1)** | 2026-06-03 |  |
+| **[Continual Visual and Verbal Learning Through a Child's Egocentric Input](https://arxiv.org/abs/2606.05115v1)** | 2026-06-03 | 15 pages, 4 figures |
+| **[RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](https://arxiv.org/abs/2606.05109v1)** | 2026-06-03 |  |
+| **[CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection](https://arxiv.org/abs/2606.04898v1)** | 2026-06-03 | Accepted MICCAI 2026 |
+| **[StrokeTimer: Robust Representation Learning for Ischemic Stroke Onset-Time Estimation from Non-contrast CT](https://arxiv.org/abs/2606.04722v1)** | 2026-06-03 | <details><summary>Early...</summary><p>Early accepted at MICCAI 2026</p></details> |
+| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Treat Traffic Like Trees: A Semantic-Preserving Hierarchical Graph-Based Expert Framework for Encrypted Traffic Analysis](https://arxiv.org/abs/2606.04517v1)** | 2026-06-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448v1)** | 2026-06-03 | 9 pages |
+| **[Motion-Guided Causal Disentanglement for Robust Multi-View Cine Cardiac MRI Diagnosis](https://arxiv.org/abs/2606.04414v1)** | 2026-06-03 |  |
+| **[An Ensembled Latent Factor Model via Differential Evolution and Gradient Descent Optimization](https://arxiv.org/abs/2606.04408v1)** | 2026-06-03 |  |
+| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
+| **[Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation](https://arxiv.org/abs/2605.25402v3)** | 2026-06-03 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accepted Paper; Anatomy-Anchored Ultrasound Self-Supervision</p></details> |
+| **[Quantum entanglement provides a competitive advantage in adversarial games](https://arxiv.org/abs/2603.10289v2)** | 2026-06-03 | 22 pages, 5 figures |
+| **[Equivariant Latent Alignment via Flow Matching under Group Symmetries](https://arxiv.org/abs/2605.30705v2)** | 2026-06-02 |  |
+| **[A Cookbook of 3D Vision: Data, Learning Paradigms, and Application](https://arxiv.org/abs/2606.04291v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 OpenSUN3D Workshop. Official version available at CVF Open Access. https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html</p></details> |
 
 ## Graph Transformers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](https://arxiv.org/abs/2606.05046v1)** | 2026-06-03 |  |
+| **[In-Context Graphical Inference](https://arxiv.org/abs/2606.05042v1)** | 2026-06-03 | 19 Pages |
+| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer](https://arxiv.org/abs/2506.00431v2)** | 2026-06-02 | KDD2025 |
 | **[RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases](https://arxiv.org/abs/2606.03040v1)** | 2026-06-02 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Code and model checkpoints available at https://github.com/jiangdmv/graph-transformer</p></details> |
 | **[Spatiotemporal Multi-Task Graph Transformer for Trip-Level Transit Prediction](https://arxiv.org/abs/2606.00572v1)** | 2026-05-30 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 11 tables, including appendix. Code available at https://github.com/Outsiders17711/SMTGraphFormer</p></details> |
@@ -57,45 +60,42 @@ labels: documentation
 | **[Inferring Group Intent as a Cooperative Game. An NLP-based Framework for Trajectory Analysis](https://arxiv.org/abs/2510.23905v2)** | 2026-05-26 |  |
 | **[Innovative Silicosis and Pneumonia Classification: Leveraging Graph Transformer Post-hoc Modeling and Ensemble Techniques](https://arxiv.org/abs/2501.00520v2)** | 2026-05-26 | <details><summary>Withd...</summary><p>Withdrawn by the authors because the manuscript contains incomplete and potentially misleading descriptions of the dataset construction and evaluation protocol, particularly in the Dataset and Experimental Setup sections. The work should not be cited or used as an independent reference in its current form</p></details> |
 | **[Dynamic Link Prediction with Temporally Enhanced Signed Graph Neural Networks](https://arxiv.org/abs/2605.26290v1)** | 2026-05-25 | 11 pages |
-| **[Message-Passing GNNs Fail to Approximate Sparse Triangular Factorizations](https://arxiv.org/abs/2502.01397v3)** | 2026-05-25 | <details><summary>Camer...</summary><p>Camera-ready version published in Transactions on Machine Learning Research</p></details> |
-| **[Closed-Form Node Classification with Exact Graph Unlearning](https://arxiv.org/abs/2605.25662v1)** | 2026-05-25 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 12 tables (7 main + 5 appendix)</p></details> |
-| **[TGFormer: Towards Temporal Graph Transformer with Auto-Correlation Mechanism](https://arxiv.org/abs/2605.24971v1)** | 2026-05-24 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task](https://arxiv.org/abs/2606.03967v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to IWSLT 2026</p></details> |
-| **[Position: Adversarial ML for LLMs Is Not Making Any Progress](https://arxiv.org/abs/2502.02260v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Position Paper Track</p></details> |
-| **[EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking](https://arxiv.org/abs/2411.06254v6)** | 2026-06-02 |  |
-| **[NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference](https://arxiv.org/abs/2606.03910v1)** | 2026-06-02 |  |
-| **[Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents](https://arxiv.org/abs/2606.03895v1)** | 2026-06-02 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 2 tables</p></details> |
-| **[From 'What' to 'How' and 'Why': Sharing LLM-Generated Retrospective Summaries of Older Adults' Passive Tracking Data with Remote Family Members](https://arxiv.org/abs/2606.03876v1)** | 2026-06-02 |  |
-| **[A Training-Free Mixture-of-Agents Framework for Multi-Document Summarization using LLMs and Knowledge Graphs](https://arxiv.org/abs/2606.03867v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by Neural Computing and Applications</p></details> |
-| **[Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation](https://arxiv.org/abs/2606.03866v1)** | 2026-06-02 | 8 pages, 2 figures |
-| **[FLARE: Fine-Grained Diagnostic Feedback for LLM Code Refinement](https://arxiv.org/abs/2606.03852v1)** | 2026-06-02 |  |
-| **[SAIL: Sound Abstract Interpreters with LLMs](https://arxiv.org/abs/2511.13663v2)** | 2026-06-02 | 43 pages, 21 figures |
-| **[Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs](https://arxiv.org/abs/2606.03785v1)** | 2026-06-02 | 22 pages, 28 figures |
-| **[AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations](https://arxiv.org/abs/2606.02240v2)** | 2026-06-02 |  |
-| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
-| **[SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents](https://arxiv.org/abs/2605.03353v3)** | 2026-06-02 | <details><summary>20 pa...</summary><p>20 pages, 6 figures. Project page: https://skcc.nexa-lang.com/ Code: https://github.com/Nexa-Language/Skill-Compiler/</p></details> |
-| **[Framing Migration News with LLMs: Structured CoT as a Support for Human Interpretation](https://arxiv.org/abs/2606.03761v1)** | 2026-06-02 |  |
+| **[Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs](https://arxiv.org/abs/2605.29928v2)** | 2026-06-03 |  |
+| **[Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agent](https://arxiv.org/abs/2606.05130v1)** | 2026-06-03 |  |
+| **[How Software Engineering Students Use LLMs to Write Research Papers: An Experience Report](https://arxiv.org/abs/2606.05114v1)** | 2026-06-03 |  |
+| **[Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthromorphism, and Maxims](https://arxiv.org/abs/2606.02493v2)** | 2026-06-03 | <details><summary>34 pa...</summary><p>34 pages, 19 Figures, 4 Tables</p></details> |
+| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v3)** | 2026-06-03 |  |
+| **[BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format](https://arxiv.org/abs/2509.02655v3)** | 2026-06-03 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 7 tables</p></details> |
+| **[Widening the Gap: Exploiting LLM Quantization via Outlier Injection](https://arxiv.org/abs/2605.15152v2)** | 2026-06-03 |  |
+| **[GroupTravelBench: Benchmarking LLM Agents on Multi-Person Travel Planning](https://arxiv.org/abs/2605.25200v2)** | 2026-06-03 | work in process |
+| **[PhysDox: Benchmarking LLMs on Physical Feasibility Auditing of Physiological Sensing Protocols](https://arxiv.org/abs/2606.05003v1)** | 2026-06-03 | 31 Pages,7 Figures |
+| **[TeleSWEBench: A Commit-Driven Benchmark for Evaluating LLM-Powered Software Engineering in Telecommunications](https://arxiv.org/abs/2606.05001v1)** | 2026-06-03 |  |
+| **[From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents](https://arxiv.org/abs/2606.04990v1)** | 2026-06-03 |  |
+| **[Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game](https://arxiv.org/abs/2606.04978v1)** | 2026-06-03 |  |
+| **[SemBlock: Semantic Boundary Dynamic Blocks for Diffusion LLMs](https://arxiv.org/abs/2606.04964v1)** | 2026-06-03 | <details><summary>Code:...</summary><p>Code: https://github.com/TH-AI-Lab-PKU/SemBlock</p></details> |
+| **[Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs](https://arxiv.org/abs/2512.04668v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026. Camera-ready version</p></details> |
+| **[Reasoning Shift: How Context Silently Shortens LLM Reasoning](https://arxiv.org/abs/2604.01161v2)** | 2026-06-03 | Preprint |
 
 ## graph neural network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RIDE: An Open Dataset and Benchmark for Train Delay Prediction](https://arxiv.org/abs/2606.05070v1)** | 2026-06-03 | 58 pages, 41 figures |
+| **[Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](https://arxiv.org/abs/2606.05046v1)** | 2026-06-03 |  |
+| **[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](https://arxiv.org/abs/2601.17469v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[SFMambaNet: Spectral-Frequency Enhanced Selective State Space Model for Correspondence Pruning](https://arxiv.org/abs/2606.04493v1)** | 2026-06-03 |  |
 | **[Text-attributed Graph Condensation via Text Selection and Attribute Matching](https://arxiv.org/abs/2606.03839v1)** | 2026-06-02 |  |
 | **[RADE: Random Add-Drop Edge as a Regularizer](https://arxiv.org/abs/2606.00757v2)** | 2026-06-02 | 27 pages, ICML 2026 |
 | **[Limit Analysis of Graph Neural Networks with Wireless Conflict Graphs](https://arxiv.org/abs/2606.03794v1)** | 2026-06-02 |  |
 | **[Towards Fair Graph Prompting: A Dual-Prompt Mechanism for Mitigating Attribute and Structural Bias](https://arxiv.org/abs/2510.23469v2)** | 2026-06-02 |  |
 | **[Do Explanations Increase the Risk of Decision Logic Leakage? Explanation-Guided Stealing of Graph Models](https://arxiv.org/abs/2506.03087v2)** | 2026-06-02 |  |
+| **[Bayesian Membership Privacy for Graph Neural Networks](https://arxiv.org/abs/2606.04069v1)** | 2026-06-02 |  |
 | **[SIGMA: A Versatile Streaming Graph Partitioner for Vertex- and Edge-Balanced Distributed GNN Training](https://arxiv.org/abs/2606.03519v1)** | 2026-06-02 |  |
 | **[HiSE: A Lightweight Hierarchical Semantic Explainer for Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.03495v1)** | 2026-06-02 |  |
 | **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://arxiv.org/abs/2509.22468v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[Topology-Aware Gaussian Graph Repair for Robust Graph Neural Networks](https://arxiv.org/abs/2606.03462v1)** | 2026-06-02 |  |
-| **[Multi-Modal Graph Neural Network with Transformer-Guided Adaptive Diffusion for Preclinical Alzheimer Classification](https://arxiv.org/abs/2606.03322v1)** | 2026-06-02 | <details><summary>10 pa...</summary><p>10 pages, Accepted to MICCAI 2024</p></details> |
-| **[Validation-Gated Multi-Agent Governance for Online Adaptation of Thermal-Hydraulic Surrogate Models under Operating-Regime Shift](https://arxiv.org/abs/2606.03321v1)** | 2026-06-02 |  |
-| **[Impact of Graph Structure on Membership-Inference Risk for Graph Neural Networks](https://arxiv.org/abs/2601.17130v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted for publication in PETS 2026</p></details> |
-| **[GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/abs/2606.03232v1)** | 2026-06-02 |  |
-| **[Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation](https://arxiv.org/abs/2604.13354v2)** | 2026-06-02 | <details><summary>Full ...</summary><p>Full article including supplementary information, 56 pages, 9 figures</p></details> |
-| **[Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/abs/2602.14279v2)** | 2026-06-02 | <details><summary>Publi...</summary><p>Published as a conference paper at ICML 2026</p></details> |
 
